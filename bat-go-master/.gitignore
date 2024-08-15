@@ -1,0 +1,42 @@
+# IDE
+.idea
+
+# Generic ignores
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Project specific ignores
+.env
+vendor
+target
+grantTokens.json
+/grant-server
+/create-keypair
+/create-tokens
+/create-tokens-ads
+/verify-tokens
+/settlement-submit
+/vault-*
+/get-cert-fingerprint
+/transfer-funds
+/list-transactions
+/create-wallet
+/paypal-settlement
+/paypal-settlement.csv
+/paypal-settlement.json
+/paypal-settlement-complete.json
+.vscode/
+**/*.gobak
+bat-go
+config.yaml
+share-0.gpg
+
+fetch-quote.json
+main/main
+
+go.work
+go.work.sum

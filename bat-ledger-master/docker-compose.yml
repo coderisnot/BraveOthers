@@ -1,0 +1,123 @@
+version: "2.1"
+
+networks:
+  default:
+    name: ledger
+    driver: bridge
+
+services:
+  zookeeper:
+    container_name: zook1
+    hostname: zook1
+    image: confluentinc/cp-zookeeper:7.4.1
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_SERVER_ID: 1
+      ZOOKEEPER_SERVERS: zook1:2888:3888
+  kafka:
+    hostname: kafka1
+    container_name: kafka1
+    image: confluentinc/cp-kafka:7.4.1 # kafka version 2.2.1
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+      - "19092:19092"
+      - "9999:9999"
+    environment:
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: SSL:SSL,SSL2:SSL
+      KAFKA_ADVERTISED_LISTENERS: "SSL://kafka1:19092,SSL2://${DOCKER_HOST_IP:-127.0.0.1}:9092"
+      KAFKA_INTER_BROKER_LISTENER_NAME: SSL
+      KAFKA_ZOOKEEPER_CONNECT: "zook1:2181"
+      KAFKA_BROKER_ID: 1
+      KAFKA_LOG4J_LOGGERS: "kafka.controller=INFO,kafka.producer.async.DefaultEventHandler=INFO,state.change.logger=INFO"
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_SSL_KEYSTORE_FILENAME: kafka.kafka1.keystore.jks
+      KAFKA_SSL_KEYSTORE_CREDENTIALS: kafka1_keystore_creds
+      KAFKA_SSL_KEY_CREDENTIALS: kafka1_sslkey_creds
+      KAFKA_SSL_TRUSTSTORE_FILENAME: kafka.kafka1.truststore.jks
+      KAFKA_SSL_TRUSTSTORE_CREDENTIALS: kafka1_truststore_creds
+      KAFKA_SSL_ENDPOINT_IDENTIFICATION_ALGORITHM: ""
+      KAFKA_SSL_CLIENT_AUTH: requested
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_JMX_PORT: 9999
+      KAFKA_JMX_HOSTNAME: ${DOCKER_HOST_IP:-127.0.0.1}
+      KAFKA_ALLOW_EVERYONE_IF_NO_ACL_FOUND: "true"
+      KAFKA_ADVERTISED_HOST_NAME: 'kafka1'
+    volumes:
+      - ./test/secrets:/etc/kafka/secrets
+
+  eyeshade-redis:
+    container_name: eyeshade-redis
+    image: redis:latest
+    ports:
+      - "3011:6379"
+
+  eyeshade-postgres:
+    container_name: eyeshade-postgres
+    image: postgres:16.2
+    ports:
+      - "3012:5432"
+    environment:
+      - "POSTGRES_USER=eyeshade"
+      - "POSTGRES_PASSWORD=password"
+  eyeshade-consumer:
+    container_name: eyeshade-consumer
+    command: "npm run eyeshade-consumer"
+    extends:
+      file: base.yml
+      service: ledger
+    environment:
+      - "DATABASE_URL=postgres://eyeshade:password@eyeshade-postgres/eyeshade"
+      - "DATABASE_RO_URL=postgres://eyeshade:password@eyeshade-postgres/eyeshade"
+      - "SERVICE=eyeshade"
+      - "DYNO=worker.1"
+    depends_on:
+      - eyeshade-postgres
+      - kafka
+    volumes:
+      - ./eyeshade:/usr/src/app/eyeshade
+      - ./bat-utils:/usr/src/app/bat-utils
+
+  eyeshade-web:
+    container_name: eyeshade-web
+    ports:
+      - "3002:3002"
+    command: "npm run eyeshade-server"
+    extends:
+      file: base.yml
+      service: ledger
+    environment:
+      - "ALLOWED_PUBLISHERS_TOKENS=00000000-0000-4000-0000-000000000000"
+      - "PORT=3002"
+      - "DATABASE_URL=postgres://eyeshade:password@eyeshade-postgres/eyeshade"
+      - "DATABASE_RO_URL=postgres://eyeshade:password@eyeshade-postgres/eyeshade"
+      - "SERVICE=eyeshade"
+      - "DYNO=web.1"
+    depends_on:
+      - eyeshade-redis
+      - eyeshade-postgres
+    volumes:
+      - ./eyeshade:/usr/src/app/eyeshade
+      - ./bat-utils:/usr/src/app/bat-utils
+      - ./test:/usr/src/app/test
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus/:/etc/prometheus/
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention=200h'
+      - '--web.enable-lifecycle'
+    restart: unless-stopped
+    expose:
+      - 9090
+    ports:
+      - "9090:9090"

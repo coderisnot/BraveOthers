@@ -1,0 +1,20 @@
+{
+  "name": "bat-utils",
+  "version": "0.9.12",
+  "description": "Utilities for BAT servers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "standard"
+  },
+  "author": "Brave Developers <devops@brave.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/brave-intl/bat-utils/issues"
+  },
+  "homepage": "https://github.com/brave-intl/bat-utils",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

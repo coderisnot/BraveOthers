@@ -1,0 +1,356 @@
+[
+  [
+    "biahpgbdmdkfgndcmfiipgcebobojjkp",
+    "1.0.0",
+    "e4112d81e877e784078cbcb09b14eca3ae7b1337f166fc9f6cb58014bf5e8a91",
+    "Brave Tor Client Updater (Linux)"
+  ],
+  [
+    "cldoidikboihgcjfkhdeidbpclkineef",
+    "1.0.0",
+    "fdbf2e1699c7f45a3a254b2b29ee5af1da8f338901bdbaec7e272fcacd648ecf",
+    "Brave Tor Client Updater (Mac)"
+  ],
+  [
+    "cpoalefficncklhjfpglfiplenlpccdb",
+    "1.0.0",
+    "a9daeb24d21957ed8d7f83ca49d6f9774ead94602f3020807fd380d28c936aa4",
+    "Brave Tor Client Updater (Windows)"
+  ],
+  [
+    "ldimlcelhnjgpjjemdjokpgeeikdinbm",
+    "1.0.0",
+    "8610909b3b495061664cb42b2dae5fa10275940b93992646723700efd4949b40",
+    "Brave Light Theme"
+  ],
+  [
+    "bfdgpgibhagkpdlnjonhkabjoijopoge",
+    "1.0.0",
+    "150bf65c5583af4006954b45548799c10abf59ee53106c08383f018ea6351b29",
+    "Brave Dark Theme"
+  ],
+  [
+    "fnpjliiiicbbpkfihnggnmobcpppjhlj",
+    "1.0.3",
+    "c4ba8c8de25692012515d550babeb703126b1345e28f871022a77cb564e4b2b4",
+    "Brave Ad Block Updater (EST: Eesti saitidele kohandatud filter)"
+  ],
+  [
+    "hmabmnondepbfogenlfklniehjedmicd",
+    "1.0.3",
+    "4eaa54e9fe9a28bc582ee7289f8e4c1209e79a5a990ec3f63ce5807e94079ca3",
+    "Brave Ad Block Updater (LVA: Latvian List)"
+  ],
+  [
+    "kdcalgmhljnckmnfcboeabeepgnlaemf",
+    "1.0.3",
+    "9ec6656a44982ad4f020065362f17b692a64702c65fa4c351eb38e20a91fda9e",
+    "Brave Ad Block Updater (FIN: Finnish Addition to Easylist)"
+  ],
+  [
+    "lddghfaofadfpaajgncgkbjhalgohfkd",
+    "1.0.3",
+    "00e22d2c1b097958bfcd842b7821a22785fb03d6dea14d895485e838a91d1d40",
+    "Brave Ad Block Updater (SVN: Slovenian List)"
+  ],
+  [
+    "njhlaafgablgnekjaodhgbaomabjibaf",
+    "1.0.3",
+    "0edfbb9c6bca3ae0bc0f9f70eca5778649b77a3f975796a12d82bdc707e7b18d",
+    "Brave Ad Block Updater (ISL: Icelandic ABP List)"
+  ],
+  [
+    "fijddbnggnpidebfbejillgbopcikfpi",
+    "1.0.3",
+    "39e2ffecfe48b7d8a1f72e45823e5f2da507b45a52457b4c4a7a2761b0022d67",
+    "Brave Ad Block Updater (IN: Fanboy's India Filters)"
+  ],
+  [
+    "abeicfkepbhgindohkebelkkhnnijcaf",
+    "1.0.3",
+    "f53e8efad26467212b8269214e42796bd637864823dd89cd2220060f6047a5bd",
+    "Brave Ad Block Updater (EU: Prebake - Filter Obtrusive Cookie Notices)"
+  ],
+  [
+    "cklgijeopkpaadeipkhdaodemoenlene",
+    "1.0.3",
+    "2cc81a61966671df0aa563fc11d8e8961fca03642139b1e05639dcdf9af06082",
+    "Brave Ad Block Updater (VIE: Fanboy's Vietnamese)"
+  ],
+  [
+    "pmgkiiodjlmmpimpmphjhkodjnjfkeke",
+    "1.0.3",
+    "63ca54da246e9aecf1d50a08d823616890ee8a820f66cb05b883dc8f7c9eeb64",
+    "Brave Ad Block Updater (GRC: Greek AdBlock Filter)"
+  ],
+  [
+    "lgfeompbgommiobcenmodekodmdajcal",
+    "1.0.3",
+    "4ec0ddab6d63e71091ce9e7ac1c41c371593e408764795a635c77e846ccd66e8",
+    "Brave Ad Block Updater (CHN: CJX's EasyList Lite (main focus on Chinese sites))"
+  ],
+  [
+    "facajiciiepdpjnoifonbfgcnlbpbieo",
+    "1.0.3",
+    "88141d6d198f468944cce692ea4e4bcdf92ea32d4e3461ad3ae9cd865f1a7077",
+    "Brave Ad Block Updater (DNK: Schacks Adblock Plus liste)"
+  ],
+  [
+    "dbcccdegkijbppmeaihneimbghfghkdl",
+    "1.0.3",
+    "ad18b27eacbe149718a1520f9047eeca6b0703f18f65dffeaa9e33ab1f677d4d",
+    "Brave Ad Block Updater (IRN: AdBlock Iran Filter)"
+  ],
+  [
+    "gemncmbgjgcjjepjkindgdhdilnaanlc",
+    "1.0.3",
+    "72f359e29f8a80412cb604eede0eddb8b7f1f78d32c4222a853497036180b1fc",
+    "Brave Ad Block Updater (HUN: hufilter)"
+  ],
+  [
+    "oidcknjcjepjgfpammgdalpnjefekhge",
+    "1.0.3",
+    "3df753085cf670a240106e9c69cf4ea722fa41841cd17ad39468b8beb6d334e2",
+    "Brave Ad Block Updater (KOR: Fanboy's Korean)"
+  ],
+  [
+    "ekodlgldheejnlkhiceghfgdcplpeoek",
+    "1.0.3",
+    "fd91693e2cef746be120a030fcfcc202f291a7d066778a8516bd7e94e6496997",
+    "Brave Ad Block Updater (LTU: Adblock Plus Lithuania)"
+  ],
+  [
+    "omkkefoeihpbpebhhbhmjekpnegokpbj",
+    "1.0.3",
+    "aaf1dd6d8862f0083e80fa34459469057e6f3ac49a6fefe57b74844a43776302",
+    "Brave Ad Block Updater (CZE, SVK: EasyList Czech and Slovak)"
+  ],
+  [
+    "hjeidaaocognlgpdkfeenmiefipcffbo",
+    "1.0.3",
+    "f14ff25789a98a74b86f0e33e4ae83c4bccd717c9e02fa7552a83016debe4ab0",
+    "Brave Ad Block Updater (ISR: EasyList Hebrew)"
+  ],
+  [
+    "oimfmeehpinnecjghphifehbbnddjkmf",
+    "1.0.3",
+    "9f272490298a2913bb662fc846ccacd324733295a2a39596fe5620d6e0d40a2d",
+    "Brave Ad Block Updater (SWE: Frellwit's Filter List)"
+  ],
+  [
+    "fbmjnabmpmfnfknjmbegjmjigmelggmf",
+    "1.0.3",
+    "81b58dfef4c8c30c5d0ad7aabc54d63af32881736a1dd92b7f6d0d1ae33c857f",
+    "Brave Ad Block Updater (NLD: EasyList Dutch)"
+  ],
+  [
+    "pdecoifadfkklajdlmndjpkhabpklldh",
+    "1.0.3",
+    "2cb5333888f95c58ceeb4c508fa51a4660a3fbff16f0cf5d6c3b8bed7c44f957",
+    "Brave Ad Block Updater (SPA: EasyList Spanish)"
+  ],
+  [
+    "llpoppgpcimnmhgehpipdmamalmpfbjd",
+    "1.0.3",
+    "67324a7484d3bfc8213e1a576131c2aa66eecdd861cbd27156277263b1a730bf",
+    "Brave Ad Block Updater (CHN: CJX's Annoyance List)"
+  ],
+  [
+    "oooemoeokehlgldpjjhcgbndjcekllim",
+    "1.0.3",
+    "41017250a8790e265802f2099b3e347b6a6d743d52f46726fda5343e7483dc0f",
+    "Brave Ad Block Updater (TUR: Adguard Turkish Filter)"
+  ],
+  [
+    "djhjpnilfflibdflbkgapjfldapkjcgl",
+    "1.0.3",
+    "8b13f0955ee5722219b753ea181b72c34ef09df7c904b13eff758787ea28bce0",
+    "Brave Ad Block Updater (KOR: YousList)"
+  ],
+  [
+    "gpgegghiabhggiplapgdfnfcmodkccji",
+    "1.0.3",
+    "cb0469d51297a0c62536356874c51ec2d50e004c336f457cd9139c0b4406b1af",
+    "Brave Ad Block Updater (ARA: Liste AR)"
+  ],
+  [
+    "jboldinnegecjonfmaahihagfahjceoj",
+    "1.0.3",
+    "69e21a128e10ab98127c6591776a4823bb98a969319c2c3eb34a317c9fd3ccbb",
+    "Brave Ad Block Updater (KOR: Korean Adblock List)"
+  ],
+  [
+    "agfanagdjcijocanbeednbhclejcjlfo",
+    "1.0.3",
+    "42118ee241a09ebd9eda3f448c8e4d7c3d2949a55b7516763a953357f4c69495",
+    "Brave Ad Block Updater (ITA: ABP X Files)"
+  ],
+  [
+    "paoecjnjjbclkgbempaeemcbeldldlbo",
+    "1.0.3",
+    "8c6b31829250e5b83fd50c597c9fadde582b2a5ea9abf51f1b98cf1755de9320",
+    "Brave Ad Block Updater (POL: polskie filtry do Adblocka i uBlocka)"
+  ],
+  [
+    "coofeapfgmpkchclgdphgpmfhmnplbpn",
+    "1.0.3",
+    "22370d99a931f0baad866a3996d55169fce7dadb2ff51c41864583ace3870640",
+    "Brave Ad Block Updater (BGR: Bulgarian Adblock list)"
+  ],
+  [
+    "nkmllpnhpfieajahfpfmjneipnddhimi",
+    "1.0.3",
+    "4e7a972815656ad2c1382a37a0c92492b9fda4dfd1f2a26b5c39a34b81f967e6",
+    "Brave Ad Block Updater (ITA: EasyList Italy)"
+  ],
+  [
+    "fmcofgdkijoanfaodpdfjipdgnjbiolk",
+    "1.0.3",
+    "57f2981887ab57bf93d8966db9d0a1d66948c019d1c92d27ce43daad6ea41ae9",
+    "Brave Ad Block Updater (RUS: BitBlock List (Дополнительная подписка фильтров))"
+  ],
+  [
+    "jmomcjcilfpbaaklkifaijjcnancamde",
+    "1.0.3",
+    "d04b6f47ec02e3677033f26b20713f03a72a7cf8111cebeeb4c70d27f93ae5fe",
+    "Brave Ad Block Updater (DEU: EasyList Germany)"
+  ],
+  [
+    "ghnjmapememheddlfgmklijahiofgkea",
+    "1.0.3",
+    "2ae2663affa9a2169afe5badab15a4638ba38685abb2b6d7690c31546ff1217b",
+    "Brave Ad Block Updater (JPN: ABP Japanese filters (日本用フィルタ))"
+  ],
+  [
+    "egooomckhdgnfbpofhkbhbkiejaihdll",
+    "1.0.3",
+    "eddcdf00cbf7961de375f3472d04a74b89263fad295661794a9ae37f4494ae2c",
+    "Brave Ad Block Updater (IDN: ABPindo)"
+  ],
+  [
+    "llhecljkijgcaalnbfadljdpkpbehakp",
+    "1.0.3",
+    "8ecaa76a65adacfe336b302af7b920fa10e561b3dc63da71aa92bdb2c5471106",
+    "Brave Ad Block Updater (CHN: EasyList China (中文))"
+  ],
+  [
+    "dmoefgliihlcfplldbllllbofegmojne",
+    "1.0.3",
+    "25daf9fe11e583b57ca45f7b6348597694c1e63b8c88b5851da5c59899bac263",
+    "Brave Ad Block Updater (RUS: Adguard Russian Filter)"
+  ],
+  [
+    "emaecjinaegfkoklcdafkiocjhoeilao",
+    "1.0.3",
+    "b0a2ee5ecec0034408576921e7e70a5bbf0362603b899708b3aa6b0600c4626b",
+    "Brave Ad Block Updater (FRA: EasyList Liste FR)"
+  ],
+  [
+    "enkheaiicpeffbfgjiklngbpkilnbkoi",
+    "1.0.3",
+    "4bbd30d349f584fed1e1c4c66d3507e84cdac2176b5610905310bb4b83685143",
+    "Brave Ad Block Updater (RUS: RU AdList (Дополнительная региональная подписка))"
+  ],
+  [
+    "cffkpbalmllkdoenhmdmpbkajipdjfam",
+    "1.0.3",
+    "bcd7db1ff572af7bccafdb61d2c68187b409e04e92eb97d6902d6bf5bb32447a",
+    "Brave Ad Block Updater (Default)"
+  ],
+  [
+    "oofiananboodjbbmdelgdommihjbkfag",
+    "1.0.1",
+    "d144434eed1a21a9d66c446c1281dc408055d333ce3f142e23490ba7e0abf13c",
+    "Brave HTTPS Everywhere Updater"
+  ],
+  [
+    "afalakplffnnnlkncjhbmahjfjhmlkal",
+    "1.0.1",
+    "efa0966c7def66007639b2ee027a75a715f3e4387836be7ecaccba15c7a04f48",
+    "Brave Tracking Protection Updater"
+  ],
+  [
+    "aomjjhallfgjeglblehebfpbcfeobpgk",
+    "4.7.2.90",
+    "4a31e00fcf4c60fe7c3f794df43829ac749b4f73974d086767c011650608c98e",
+    "1Password"
+  ],
+  [
+    "jdbefljfgobbmcidnmpjamcbhnbphjnb",
+    "1.9.459",
+    "7663573832d04d4d6886ce17274fe8ea29b949aa74db5de604225b8d5b227a9c",
+    "Brave PDFJS"
+  ],
+  [
+    "oemmndcbldboiebfnladdacbdfmadadm",
+    "1.6.293",
+    "439d57636ab8e17128fca58d5b31fb555477df26b3dc8489ed8da60e53679316",
+    "Upstream PDFJS"
+  ],
+  [
+    "fdjamakpfbbddfjaooikfcpapjohcfmg",
+    "6.4.0",
+    "3f9f5a3f46b0223bfd286df1d3f8358af2abc07d89d88b35b337f566273f1515",
+    "Dashlane"
+  ],
+  [
+    "hdokiejnpimakedhajhdlcegeplioahd",
+    "4.17.0.4",
+    "f7c5aa9b07ac075e75451a2c39baa1a98af920271351ad7edf3b5e7794805d98",
+    "LastPass"
+  ],
+  [
+    "niloccemoadcdkdjlinkgdfekeahmflj",
+    "3.0.4.0",
+    "08be85bb0c7b37ce39634331df6b585d24c45bcf39a2bab06c87e17a6ff9051e",
+    "Pocket"
+  ],
+  [
+    "kmcfomidfpdkfieipokbalgegidffkal",
+    "5.5.0",
+    "caf5ee3818c0e095d1922ef1be922ffc811e4b6b1eeb0179cecd400df5e92656",
+    "Enpass"
+  ],
+  [
+    "dbepggeogbaibhgnhhndojpepiihcmeb",
+    "1.60.3",
+    "fc2ed4735bfd9d669cb3801d514f3953b850f454469d7f445d9f6b69da2e1d71",
+    "Vimium"
+  ],
+  [
+    "nngceckbapebfimnlniiiahkandclblb",
+    "1.31.2",
+    "7d5f55e87d253cd388f1899f3bdf2300047483dce8241d7aa3467873adb1b8ab",
+    "bitwarden"
+  ],
+  [
+    "bmnlcjabgnpnenekpadlanbbkooimhnj",
+    "10.7.2",
+    "a4c1cde06f193b63e46a9b317a6a8c127cc2d60d1fbf9b0e107e8086177013ff",
+    "Honey"
+  ],
+  [
+    "gpdjojdkbbmdfjfahjcgigfpmkopogic",
+    "3.0.5",
+    "571add41468826b12137c80c40f91dcc3f8c879478de564e07a186e06c51a231",
+    "Pinterest"
+  ],
+  [
+    "nkbihfbeogaeaoehlefnkodbefgpgknn",
+    "4.11.1",
+    "ce1dbcbacdd064a177d744444024fc2e7ebd4e0fad8891e31f3022f2ced8e661",
+    "MetaMask"
+  ],
+  [
+    "kbmfpngjjgdllneeigpgjifpgocmfgmb",
+    "5.10.3",
+    "ece3e5ec16708ff659ee90ff6b1dc89e9c7e7e67ad9450b166cfc1b14d7b44f3",
+    "Reddit Enhancement Suite"
+  ],
+  [
+    "ajopnjidmegmdimjlfnijceegpefgped",
+    "7.2.1",
+    "f30d80b83cb2871f3c0e73d8a3cf99b2d4b036b93e236f29239d3636170439e3",
+    "BetterTTV"
+  ]
+]

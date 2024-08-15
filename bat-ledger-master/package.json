@@ -1,0 +1,157 @@
+{
+  "name": "bat-ledger",
+  "version": "0.9.0",
+  "description": "A BAT micropayments system for users and publishers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "ava": "ava",
+    "eyeshade-server": "node eyeshade/server.js",
+    "eyeshade-server-dev": "nodemon eyeshade/server.js",
+    "eyeshade-consumer": "node eyeshade/consumer.js",
+    "eyeshade-consumer-dev": "nodemon eyeshade/consumer.js",
+    "eyeshade-cronjob": "node eyeshade/cronjob.js",
+    "eyeshade-producer": "node bin/migrate-mongo-to-kafka.js",
+    "start": "echo use 'npm run eyeshade-web' or 'npm run eyeshade-consumer' or 'npm run eyeshade-cronjob'",
+    "start-eyeshade": "NODE_PATH=. DEBUG=*,-mongo:*,mongo:queries SERVICE=eyeshade nodemon eyeshade/server.js",
+    "start-eyeshade-consumer": "NODE_PATH=. DEBUG=*,-mongo:*,mongo:queries SERVICE=eyeshade nodemon eyeshade/consumer.js",
+    "test": "nyc --reporter=html --reporter=text npm run test-all",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "test-all": "npm run test-isup && npm run test-unit && npm run test-integration",
+    "test-isup": "ava -v -s test/isup.integration.test.js",
+    "docker-test": "docker-compose run --rm -v $(pwd)/test:/usr/src/app/test -v $(pwd)/eyeshade:/usr/src/app/eyeshade -v $(pwd)/bat-utils:/usr/src/app/bat-utils eyeshade-web npm run test",
+    "lint": "npx standard",
+    "lint-fix": "npm run lint -- --fix",
+    "security": "npx standard --version && npm run lint && npm run moderate-audit",
+    "moderate-audit": "npm audit --audit-level=moderate; echo $?",
+    "test-integration": "ava -v -s test/*/*.integration.test.js",
+    "test-settlements": "ava -v -s eyeshade/**/settlements.test.js",
+    "test-unit": "ava -v -s bat-utils/**/*.test.js eyeshade/**/*.test.js",
+    "docker-reset": "docker-compose down && docker rmi $(docker images -a -q) --force",
+    "docker-build": "docker-compose build",
+    "docker-seed-eyeshade": "docker-compose -f docker-compose.yml run --rm -w /usr/src/app/eyeshade eyeshade-web bash ./bin/seed.sh",
+    "docker-up": "docker-compose -f docker-compose.yml up $npm_package_config_dockerservices",
+    "docker-up-dev": "docker-compose -f docker-compose.yml up $npm_package_config_dockerservices $npm_package_config_dockermonitors",
+    "docker-up-detached": "docker-compose up -d $npm_package_config_dockerservices",
+    "docker-migrate-eyeshade-up": "docker-compose -f docker-compose.yml run --rm -w /usr/src/app/eyeshade eyeshade-web npm run migrate-up",
+    "migrate-up": "./bin/migrate-up.sh",
+    "docker-migrate-up": "npm run docker-migrate-eyeshade-up && npm run docker-seed-eyeshade",
+    "docker-migrate-down": "docker-compose -f docker-compose.yml run --rm -w /usr/src/app/eyeshade eyeshade-web ./bin/migrate-down.sh",
+    "docker-migrate-down-all": "docker-compose -f docker-compose.yml run --rm -w /usr/src/app/eyeshade eyeshade-web bash ./bin/migrate-down-all.sh",
+    "docker-log-detached": "docker-compose logs",
+    "postinstall": "test -e .git && { for file in `ls .git-hooks`; do ln -sf ../../.git-hooks/${file} .git/hooks/${file}; done } || true"
+  },
+  "config": {
+    "dockermonitors": "prometheus grafana",
+    "dockerservices": "eyeshade-web eyeshade-consumer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brave-intl/bat-ledger.git"
+  },
+  "author": "Brave Developers <support@brave.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/brave-intl/bat-ledger/issues"
+  },
+  "homepage": "https://github.com/brave-intl/bat-ledger",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@hapi/hapi": "^21.3.6",
+    "@hapi/inert": "^7.1.0",
+    "@hapi/wreck": "^18.0.1",
+    "@sentry/node": "^7.107.0",
+    "avro-js": "1.11.3",
+    "bat-utils": "file:./bat-utils",
+    "bignumber.js": "^9.1.2",
+    "bip32": "^4.0.0",
+    "bluebird": "^3.7.2",
+    "bs58check": "^3.0.1",
+    "bson": "^5.4.0",
+    "country-list": "2.3.0",
+    "cron-parser": "4.9.0",
+    "currency-codes": "2.1.0",
+    "debug": "^4.3.4",
+    "dotenv": "^16.4.5",
+    "ethereum-address": "0.0.4",
+    "exposition": "^1.2.0",
+    "gridfs-stream": "1.1.1",
+    "hapi-auth-bearer-token": "^8.0.0",
+    "hapi-require-https": "^6.0.0",
+    "http-request-signature": "0.0.5",
+    "joi": "^17.12.2",
+    "kafkajs": "^2.2.4",
+    "moment": "^2.30.1",
+    "netmask": "^2.0.2",
+    "newrelic": "^11.13.0",
+    "nyc": "^15.1.0",
+    "pg": "^8.11.3",
+    "pg-format": "^1.0.4",
+    "prom-client": "11.5.3",
+    "queue-microtask": "github:brave-intl/queue-microtask#master",
+    "redis": "^3.1.2",
+    "strip-ansi": "^7.1.0",
+    "tiny-secp256k1": "^2.2.3",
+    "tldjs": "2.3.1",
+    "transliteration": "^2.3.5",
+    "underscore": "^1.13.6",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": "20.7.0",
+    "npm": "9.8.1"
+  },
+  "devDependencies": {
+    "ava": "^5.3.1",
+    "coveralls-next": "^4.2.0",
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0",
+    "parse-prometheus-text-format": "^1.1.1",
+    "sinon": "^15.2.0",
+    "standard": "~17.1.0",
+    "supertest": "^7.0.0"
+  },
+  "overrides": {
+    "crypto-js": "4.2.0"
+  },
+  "standard": {
+    "ignore": [
+      "config.js",
+      "bat-utils/config/config.*"
+    ]
+  },
+  "nyc": {
+    "per-file": true,
+    "all": true,
+    "watermarks": {
+      "lines": [
+        90,
+        100
+      ],
+      "functions": [
+        90,
+        100
+      ],
+      "branches": [
+        90,
+        100
+      ],
+      "statements": [
+        90,
+        100
+      ]
+    },
+    "include": [
+      "eyeshade/**/*.js",
+      "bat-utils/**/*.js"
+    ],
+    "exclude": [
+      "bin/**/*",
+      "eyeshade/bin/**/*.js"
+    ],
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}

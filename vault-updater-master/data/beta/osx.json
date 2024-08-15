@@ -1,0 +1,914 @@
+[
+  {
+    "version": "0.25.217",
+    "name": "Brave 0.25.217",
+    "pub_date": "2018-12-07T17:42:24.452Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.217\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.25.217/osx/Brave-Beta-0.25.217.zip"
+  },
+  {
+    "version": "0.23.204",
+    "name": "Brave 0.23.204",
+    "pub_date": "2018-09-05T06:21:32.510Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.204\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.204/osx/Brave-Beta-0.23.204.zip"
+  },
+  {
+    "version": "0.23.203",
+    "name": "Brave 0.23.203",
+    "pub_date": "2018-09-02T23:23:55.137Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.203\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.203/osx/Brave-Beta-0.23.203.zip"
+  },
+  {
+    "version": "0.23.202",
+    "name": "Brave 0.23.202",
+    "pub_date": "2018-08-31T23:29:49.349Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.202\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.202/osx/Brave-Beta-0.23.202.zip"
+  },
+  {
+    "version": "0.23.201",
+    "name": "Brave 0.23.201",
+    "pub_date": "2018-08-28T18:31:51.912Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.201\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.201/osx/Brave-Beta-0.23.201.zip"
+  },
+  {
+    "version": "0.23.100",
+    "name": "Brave 0.23.100",
+    "pub_date": "2018-08-14T07:20:55.241Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.100\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.100/osx/Brave-Beta-0.23.100.zip"
+  },
+  {
+    "version": "0.23.78",
+    "name": "Brave 0.23.78",
+    "pub_date": "2018-08-07T06:12:53.092Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.78\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.78/osx/Brave-Beta-0.23.78.zip"
+  },
+  {
+    "version": "0.23.70",
+    "name": "Brave 0.23.70",
+    "pub_date": "2018-07-20T22:28:07.313Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.70\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.70/osx/Brave-Beta-0.23.70.zip"
+  },
+  {
+    "version": "0.23.69",
+    "name": "Brave 0.23.69",
+    "pub_date": "2018-07-13T22:58:19.386Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.69\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.69/osx/Brave-Beta-0.23.69.zip"
+  },
+  {
+    "version": "0.23.32",
+    "name": "Brave 0.23.32",
+    "pub_date": "2018-07-10T07:22:24.543Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.32\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.32/osx/Brave-Beta-0.23.32.zip"
+  },
+  {
+    "version": "0.23.21",
+    "name": "Brave 0.23.21",
+    "pub_date": "2018-07-02T07:57:53.122Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.21\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.21/osx/Brave-Beta-0.23.21.zip"
+  },
+  {
+    "version": "0.23.14",
+    "name": "Brave 0.23.14",
+    "pub_date": "2018-06-22T07:28:03.401Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.14\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.14/osx/Brave-Beta-0.23.14.zip"
+  },
+  {
+    "version": "0.23.13",
+    "name": "Brave 0.23.13",
+    "pub_date": "2018-06-22T04:46:32.612Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.13\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.13/osx/Brave-Beta-0.23.13.zip"
+  },
+  {
+    "version": "0.23.12",
+    "name": "Brave 0.23.12",
+    "pub_date": "2018-06-21T17:19:18.964Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.12\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.12/osx/Brave-Beta-0.23.12.zip"
+  },
+  {
+    "version": "0.23.11",
+    "name": "Brave 0.23.11",
+    "pub_date": "2018-06-19T18:57:19.585Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.11\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.11/osx/Brave-Beta-0.23.11.zip"
+  },
+  {
+    "version": "0.23.8",
+    "name": "Brave 0.23.8",
+    "pub_date": "2018-06-08T19:59:51.733Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.8\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.23.8/osx/Brave-Beta-0.23.8.zip"
+  },
+  {
+    "version": "0.22.806",
+    "name": "Brave 0.22.806",
+    "pub_date": "2018-06-04T16:37:40.784Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.806\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.806/osx/Brave-Beta-0.22.806.zip"
+  },
+  {
+    "version": "0.22.805",
+    "name": "Brave 0.22.805",
+    "pub_date": "2018-06-01T16:23:04.210Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.805\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.805/osx/Brave-Beta-0.22.805.zip"
+  },
+  {
+    "version": "0.22.804",
+    "name": "Brave 0.22.804",
+    "pub_date": "2018-05-30T07:17:40.939Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.804\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.804/osx/Brave-Beta-0.22.804.zip"
+  },
+  {
+    "version": "0.22.802",
+    "name": "Brave 0.22.802",
+    "pub_date": "2018-05-25T00:08:31.237Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.802\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.802/osx/Brave-Beta-0.22.802.zip"
+  },
+  {
+    "version": "0.22.801",
+    "name": "Brave 0.22.801",
+    "pub_date": "2018-05-24T06:56:11.960Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.801\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.801/osx/Brave-Beta-0.22.801.zip"
+  },
+  {
+    "version": "0.22.718",
+    "name": "Brave 0.22.718",
+    "pub_date": "2018-05-21T18:43:53.556Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.718\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.718/osx/Brave-Beta-0.22.718.zip"
+  },
+  {
+    "version": "0.22.716",
+    "name": "Brave 0.22.716",
+    "pub_date": "2018-05-17T17:31:46.992Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.716\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.716/osx/Brave-Beta-0.22.716.zip"
+  },
+  {
+    "version": "0.22.710",
+    "name": "Brave 0.22.710",
+    "pub_date": "2018-05-11T23:58:01.710Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.710\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.710/osx/Brave-Beta-0.22.710.zip"
+  },
+  {
+    "version": "0.22.707",
+    "name": "Brave 0.22.707",
+    "pub_date": "2018-05-11T05:42:27.863Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.707\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.707/osx/Brave-Beta-0.22.707.zip"
+  },
+  {
+    "version": "0.22.706",
+    "name": "Brave 0.22.706",
+    "pub_date": "2018-05-10T18:42:10.428Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.706\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.706/osx/Brave-Beta-0.22.706.zip"
+  },
+  {
+    "version": "0.22.703",
+    "name": "Brave 0.22.703",
+    "pub_date": "2018-05-08T06:35:37.015Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.703\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.703/osx/Brave-Beta-0.22.703.zip"
+  },
+  {
+    "version": "0.22.702",
+    "name": "Brave 0.22.702",
+    "pub_date": "2018-05-02T21:05:25.121Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.702\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.702/osx/Brave-Beta-0.22.702.zip"
+  },
+  {
+    "version": "0.22.701",
+    "name": "Brave 0.22.701",
+    "pub_date": "2018-05-02T18:33:57.737Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.701\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.701/osx/Brave-Beta-0.22.701.zip"
+  },
+  {
+    "version": "0.22.109",
+    "name": "Brave 0.22.109",
+    "pub_date": "2018-04-11T19:10:22.135Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.109\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.109/osx/Brave-Beta-0.22.109.zip"
+  },
+  {
+    "version": "0.22.108",
+    "name": "Brave 0.22.108",
+    "pub_date": "2018-04-10T20:53:56.106Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.108\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.108/osx/Brave-Beta-0.22.108.zip"
+  },
+  {
+    "version": "0.22.106",
+    "name": "Brave 0.22.106",
+    "pub_date": "2018-04-05T18:41:24.099Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.106\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.106/osx/Brave-Beta-0.22.106.zip"
+  },
+  {
+    "version": "0.22.105",
+    "name": "Brave 0.22.105",
+    "pub_date": "2018-04-05T05:28:30.912Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.105\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.105/osx/Brave-Beta-0.22.105.zip"
+  },
+  {
+    "version": "0.22.103",
+    "name": "Brave 0.22.103",
+    "pub_date": "2018-04-02T23:45:07.628Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.103\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.103/osx/Brave-Beta-0.22.103.zip"
+  },
+  {
+    "version": "0.22.102",
+    "name": "Brave 0.22.102",
+    "pub_date": "2018-04-02T21:20:47.047Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.102\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.102/osx/Brave-Beta-0.22.102.zip"
+  },
+  {
+    "version": "0.22.101",
+    "name": "Brave 0.22.101",
+    "pub_date": "2018-04-02T04:07:47.249Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.101\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.101/osx/Brave-Beta-0.22.101.zip"
+  },
+  {
+    "version": "0.22.14",
+    "name": "Brave 0.22.14",
+    "pub_date": "2018-04-01T19:35:55.368Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.14\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.14/osx/Brave-Beta-0.22.14.zip"
+  },
+  {
+    "version": "0.22.8",
+    "name": "Brave 0.22.8",
+    "pub_date": "2018-03-27T22:50:54.477Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.8\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.8/osx/Brave-Beta-0.22.8.zip"
+  },
+  {
+    "version": "0.22.7",
+    "name": "Brave 0.22.7",
+    "pub_date": "2018-03-23T05:47:21.909Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.7\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.7/osx/Brave-Beta-0.22.7.zip"
+  },
+  {
+    "version": "0.22.6",
+    "name": "Brave 0.22.6",
+    "pub_date": "2018-03-21T22:12:39.315Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.6\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.6/osx/Brave-Beta-0.22.6.zip"
+  },
+  {
+    "version": "0.22.5",
+    "name": "Brave 0.22.5",
+    "pub_date": "2018-03-19T07:18:07.885Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.5\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.5/osx/Brave-Beta-0.22.5.zip"
+  },
+  {
+    "version": "0.22.4",
+    "name": "Brave 0.22.4",
+    "pub_date": "2018-03-17T07:23:25.785Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.4\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.22.4/osx/Brave-Beta-0.22.4.zip"
+  },
+  {
+    "version": "0.21.658",
+    "name": "Brave 0.21.658",
+    "pub_date": "2018-03-15T17:08:01.141Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.658\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.658/osx/Brave-Beta-0.21.658.zip"
+  },
+  {
+    "version": "0.21.657",
+    "name": "Brave 0.21.657",
+    "pub_date": "2018-03-14T16:07:55.459Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.657\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.657/osx/Brave-Beta-0.21.657.zip"
+  },
+  {
+    "version": "0.21.656",
+    "name": "Brave 0.21.656",
+    "pub_date": "2018-03-11T07:52:35.256Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.656\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.656/osx/Brave-Beta-0.21.656.zip"
+  },
+  {
+    "version": "0.21.654",
+    "name": "Brave 0.21.654",
+    "pub_date": "2018-03-01T19:39:32.603Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.654\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.654/osx/Brave-Beta-0.21.654.zip"
+  },
+  {
+    "version": "0.21.652",
+    "name": "Brave 0.21.652",
+    "pub_date": "2018-03-01T18:38:32.387Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.652\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.652/osx/Brave-Beta-0.21.652.zip"
+  },
+  {
+    "version": "0.21.651",
+    "name": "Brave 0.21.651",
+    "pub_date": "2018-02-28T22:02:06.327Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.651\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.651/osx/Brave-Beta-0.21.651.zip"
+  },
+  {
+    "version": "0.21.17",
+    "name": "Brave 0.21.17",
+    "pub_date": "2018-02-28T01:50:16.413Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.17\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.17/osx/Brave-Beta-0.21.17.zip"
+  },
+  {
+    "version": "0.21.16",
+    "name": "Brave 0.21.16",
+    "pub_date": "2018-02-26T23:19:48.926Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.16\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.16/osx/Brave-Beta-0.21.16.zip"
+  },
+  {
+    "version": "0.21.15",
+    "name": "Brave 0.21.15",
+    "pub_date": "2018-02-26T17:23:52.553Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.15\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.15/osx/Brave-Beta-0.21.15.zip"
+  },
+  {
+    "version": "0.21.12",
+    "name": "Brave 0.21.12",
+    "pub_date": "2018-02-23T16:04:58.799Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.12\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.12/osx/Brave-Beta-0.21.12.zip"
+  },
+  {
+    "version": "0.21.11",
+    "name": "Brave 0.21.11",
+    "pub_date": "2018-02-21T18:56:12.403Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.11\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.11/osx/Brave-Beta-0.21.11.zip"
+  },
+  {
+    "version": "0.21.9",
+    "name": "Brave 0.21.9",
+    "pub_date": "2018-02-13T18:02:09.399Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.9\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.9/osx/Brave-Beta-0.21.9.zip"
+  },
+  {
+    "version": "0.21.7",
+    "name": "Brave 0.21.7",
+    "pub_date": "2018-02-07T21:51:23.900Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.7\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.21.7/osx/Brave-Beta-0.21.7.zip"
+  },
+  {
+    "version": "0.20.22",
+    "name": "Brave 0.20.22",
+    "pub_date": "2018-01-26T23:34:40.943Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.22\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.22/osx/Brave-Beta-0.20.22.zip"
+  },
+  {
+    "version": "0.20.21",
+    "name": "Brave 0.20.21",
+    "pub_date": "2018-01-25T17:36:56.732Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.21\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.21/osx/Brave-Beta-0.20.21.zip"
+  },
+  {
+    "version": "0.20.20",
+    "name": "Brave 0.20.20",
+    "pub_date": "2018-01-24T04:08:10.026Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.20beta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.20/osx/Brave-Beta-0.20.20.zip"
+  },
+  {
+    "version": "0.20.19",
+    "name": "Brave 0.20.19",
+    "pub_date": "2018-01-23T05:10:43.282Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.19beta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.19/osx/Brave-Beta-0.20.19.zip"
+  },
+  {
+    "version": "0.20.17",
+    "name": "Brave 0.20.17",
+    "pub_date": "2018-01-21T06:01:34.470Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.17\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.17/osx/Brave-0.20.17.zip"
+  },
+  {
+    "version": "0.20.16",
+    "name": "Brave 0.20.16",
+    "pub_date": "2018-01-09T04:58:44.966Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.16\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.16/osx/Brave-0.20.16.zip"
+  },
+  {
+    "version": "0.20.15",
+    "name": "Brave 0.20.15",
+    "pub_date": "2018-01-03T22:39:40.615Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.15\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.15/osx/Brave-0.20.15.zip"
+  },
+  {
+    "version": "0.20.14",
+    "name": "Brave 0.20.14",
+    "pub_date": "2017-12-30T16:01:50.077Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.14\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.14/osx/Brave-0.20.14.zip"
+  },
+  {
+    "version": "0.20.13",
+    "name": "Brave 0.20.13",
+    "pub_date": "2017-12-29T22:11:35.759Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.13\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.13/osx/Brave-0.20.13.zip"
+  },
+  {
+    "version": "0.20.12",
+    "name": "Brave 0.20.12",
+    "pub_date": "2017-12-28T07:57:45.548Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.12\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.12/osx/Brave-0.20.12.zip"
+  },
+  {
+    "version": "0.20.11",
+    "name": "Brave 0.20.11",
+    "pub_date": "2017-12-24T06:51:25.366Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.11\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.11/osx/Brave-0.20.11.zip"
+  },
+  {
+    "version": "0.20.10",
+    "name": "Brave 0.20.10",
+    "pub_date": "2017-12-22T17:52:25.857Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.10\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.10/osx/Brave-0.20.10.zip"
+  },
+  {
+    "version": "0.20.9",
+    "name": "Brave 0.20.9",
+    "pub_date": "2017-12-21T05:25:56.824Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.9\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.9/osx/Brave-0.20.9.zip"
+  },
+  {
+    "version": "0.20.8",
+    "name": "Brave 0.20.8",
+    "pub_date": "2017-12-18T16:32:35.358Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.8\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.8/osx/Brave-0.20.8.zip"
+  },
+  {
+    "version": "0.20.7",
+    "name": "Brave 0.20.7",
+    "pub_date": "2017-11-17T00:07:58.622Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.7\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.7/osx/Brave-0.20.7.zip"
+  },
+  {
+    "version": "0.20.6",
+    "name": "Brave 0.20.6",
+    "pub_date": "2017-11-07T08:06:55.315Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.6\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.6/osx/Brave-0.20.6.zip"
+  },
+  {
+    "version": "0.20.5",
+    "name": "Brave 0.20.5",
+    "pub_date": "2017-11-04T07:08:36.596Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.5\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.5/osx/Brave-0.20.5.zip"
+  },
+  {
+    "version": "0.20.4",
+    "name": "Brave 0.20.4",
+    "pub_date": "2017-11-04T00:33:20.241Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.4\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.20.4/osx/Brave-0.20.4.zip"
+  },
+  {
+    "version": "0.19.66",
+    "name": "Brave 0.19.66",
+    "pub_date": "2017-10-25T03:47:26.253Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.66\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.66/osx/Brave-0.19.66.zip"
+  },
+  {
+    "version": "0.19.58",
+    "name": "Brave 0.19.58",
+    "pub_date": "2017-10-19T07:30:21.701Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.58\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.58/osx/Brave-0.19.58.zip"
+  },
+  {
+    "version": "0.19.54",
+    "name": "Brave 0.19.54",
+    "pub_date": "2017-10-17T07:28:29.823Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.54\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.54/osx/Brave-0.19.54.zip"
+  },
+  {
+    "version": "0.19.50",
+    "name": "Brave 0.19.50",
+    "pub_date": "2017-10-15T07:30:50.357Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.50\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.50/osx/Brave-0.19.50.zip"
+  },
+  {
+    "version": "0.19.45",
+    "name": "Brave 0.19.45",
+    "pub_date": "2017-10-11T23:51:34.829Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.45\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.45/osx/Brave-0.19.45.zip"
+  },
+  {
+    "version": "0.19.44",
+    "name": "Brave 0.19.44",
+    "pub_date": "2017-10-11T21:11:34.460Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.44\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.44/osx/Brave-0.19.44.zip"
+  },
+  {
+    "version": "0.19.43",
+    "name": "Brave 0.19.43",
+    "pub_date": "2017-10-11T17:46:54.680Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.43\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.43/osx/Brave-0.19.43.zip"
+  },
+  {
+    "version": "0.19.34",
+    "name": "Brave 0.19.34",
+    "pub_date": "2017-10-07T03:03:20.397Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.34\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.34/osx/Brave-0.19.34.zip"
+  },
+  {
+    "version": "0.19.33",
+    "name": "Brave 0.19.33",
+    "pub_date": "2017-10-06T19:19:33.270Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.33\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.33/osx/Brave-0.19.33.zip"
+  },
+  {
+    "version": "0.19.30",
+    "name": "Brave 0.19.30",
+    "pub_date": "2017-10-06T07:29:55.063Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.30\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.30/osx/Brave-0.19.30.zip"
+  },
+  {
+    "version": "0.19.29",
+    "name": "Brave 0.19.29",
+    "pub_date": "2017-10-05T07:29:23.999Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.29\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.29/osx/Brave-0.19.29.zip"
+  },
+  {
+    "version": "0.19.28",
+    "name": "Brave 0.19.28",
+    "pub_date": "2017-10-04T07:59:12.835Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.28\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.28/osx/Brave-0.19.28.zip"
+  },
+  {
+    "version": "0.19.27",
+    "name": "Brave 0.19.27",
+    "pub_date": "2017-10-03T16:08:28.895Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.27\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.27/osx/Brave-0.19.27.zip"
+  },
+  {
+    "version": "0.19.25",
+    "name": "Brave 0.19.25",
+    "pub_date": "2017-10-02T19:09:52.873Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.25\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.25/osx/Brave-0.19.25.zip"
+  },
+  {
+    "version": "0.19.24",
+    "name": "Brave 0.19.24",
+    "pub_date": "2017-09-29T07:30:46.591Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.24\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.24/osx/Brave-0.19.24.zip"
+  },
+  {
+    "version": "0.19.23",
+    "name": "Brave 0.19.23",
+    "pub_date": "2017-09-28T07:49:20.653Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.23\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.23/osx/Brave-0.19.23.zip"
+  },
+  {
+    "version": "0.19.20",
+    "name": "Brave 0.19.20",
+    "pub_date": "2017-09-26T22:16:32.393Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.20\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.20/osx/Brave-0.19.20.zip"
+  },
+  {
+    "version": "0.19.17",
+    "name": "Brave 0.19.17",
+    "pub_date": "2017-09-26T07:31:18.406Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.17\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.17/osx/Brave-0.19.17.zip"
+  },
+  {
+    "version": "0.19.16",
+    "name": "Brave 0.19.16",
+    "pub_date": "2017-09-25T07:31:07.939Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.16\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.16/osx/Brave-0.19.16.zip"
+  },
+  {
+    "version": "0.19.15",
+    "name": "Brave 0.19.15",
+    "pub_date": "2017-09-24T07:31:51.525Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.15\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.15/osx/Brave-0.19.15.zip"
+  },
+  {
+    "version": "0.19.14",
+    "name": "Brave 0.19.14",
+    "pub_date": "2017-09-24T06:46:16.824Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.14\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.14/osx/Brave-0.19.14.zip"
+  },
+  {
+    "version": "0.19.13",
+    "name": "Brave 0.19.13",
+    "pub_date": "2017-09-22T07:31:09.664Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.13\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.13/osx/Brave-0.19.13.zip"
+  },
+  {
+    "version": "0.19.12",
+    "name": "Brave 0.19.12",
+    "pub_date": "2017-09-21T15:51:15.900Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.12\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.12/osx/Brave-0.19.12.zip"
+  },
+  {
+    "version": "0.19.9",
+    "name": "Brave 0.19.9",
+    "pub_date": "2017-09-20T14:43:13.860Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.9\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.9/osx/Brave-0.19.9.zip"
+  },
+  {
+    "version": "0.19.7",
+    "name": "Brave 0.19.7",
+    "pub_date": "2017-09-19T23:49:05.453Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.7\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.7/osx/Brave-0.19.7.zip"
+  },
+  {
+    "version": "0.19.6",
+    "name": "Brave 0.19.6",
+    "pub_date": "2017-09-06T17:05:24.811Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.6\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.6/osx/Brave-0.19.6.zip"
+  },
+  {
+    "version": "0.19.5",
+    "name": "Brave 0.19.5",
+    "pub_date": "2017-09-05T22:21:16.574Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.5\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.5/osx/Brave-0.19.5.zip"
+  },
+  {
+    "version": "0.19.3",
+    "name": "Brave 0.19.3",
+    "pub_date": "2017-08-21T23:20:30.358Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.3\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.3/osx/Brave-0.19.3.zip"
+  },
+  {
+    "version": "0.19.2",
+    "name": "Brave 0.19.2",
+    "pub_date": "2017-08-09T18:17:30.830Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.2\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.2/osx/Brave-0.19.2.zip"
+  },
+  {
+    "version": "0.19.1",
+    "name": "Brave 0.19.1",
+    "pub_date": "2017-07-27T23:20:28.124Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.1\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.19.1/osx/Brave-0.19.1.zip"
+  },
+  {
+    "version": "0.18.13",
+    "name": "Brave 0.18.13",
+    "pub_date": "2017-07-26T23:47:43.447Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.13\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.13/osx/Brave-0.18.13.zip"
+  },
+  {
+    "version": "0.18.12",
+    "name": "Brave 0.18.12",
+    "pub_date": "2017-07-26T06:29:57.068Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.12\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.12/osx/Brave-0.18.12.zip"
+  },
+  {
+    "version": "0.18.11",
+    "name": "Brave 0.18.11",
+    "pub_date": "2017-07-26T01:27:34.307Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.11\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.11/osx/Brave-0.18.11.zip"
+  },
+  {
+    "version": "0.18.10",
+    "name": "Brave 0.18.10",
+    "pub_date": "2017-07-23T19:49:44.797Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.10\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.10/osx/Brave-0.18.10.zip"
+  },
+  {
+    "version": "0.18.9",
+    "name": "Brave 0.18.9",
+    "pub_date": "2017-07-23T06:33:31.077Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.9\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.9/osx/Brave-0.18.9.zip"
+  },
+  {
+    "version": "0.18.8",
+    "name": "Brave 0.18.8",
+    "pub_date": "2017-07-22T07:17:41.355Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.8\nbeta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.8/osx/Brave-0.18.8.zip"
+  },
+  {
+    "version": "0.18.7",
+    "name": "Brave 0.18.7",
+    "pub_date": "2017-07-21T19:27:29.911Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.7beta",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.7/osx/Brave-0.18.7.zip"
+  },
+  {
+    "version": "0.18.6",
+    "name": "Brave 0.18.6",
+    "pub_date": "2017-07-21T17:33:45.658Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.6\nbeta",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.6/osx/Brave-0.18.6.zip"
+  },
+  {
+    "version": "0.18.5",
+    "name": "Brave 0.18.5",
+    "pub_date": "2017-07-14T15:49:52.039Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.5beta",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.5/osx/Brave-0.18.5.zip"
+  },
+  {
+    "version": "0.18.4",
+    "name": "Brave 0.18.4",
+    "pub_date": "2017-07-12T20:47:33.721Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.4beta",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.4/osx/Brave-0.18.4.zip"
+  },
+  {
+    "version": "0.18.1",
+    "name": "Brave 0.18.1",
+    "pub_date": "2017-07-11T20:32:54.638Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.1beta",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/beta/0.18.1/osx/Brave-0.18.1.zip"
+  }
+]

@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  pull_request:
+    branches-ignore:
+      - 'nitro-payments-dev'
+    # branches:
+    #   - master
+    #   - prod
+
+env:
+  GO111MODULE: on
+  TEST_TAGS: integration
+  DATABASE_MIGRATIONS_URL: file://$(pwd)/migrations
+  GEMINI_SUBMIT_TYPE: hmac
+  BAT_SETTLEMENT_ADDRESS: ${{secrets.BAT_SETTLEMENT_ADDRESS}}
+  DONOR_WALLET_CARD_ID: ${{secrets.DONOR_WALLET_CARD_ID}}
+  DONOR_WALLET_PRIVATE_KEY: ${{secrets.DONOR_WALLET_PRIVATE_KEY}}
+  DONOR_WALLET_PUBLIC_KEY: ${{secrets.DONOR_WALLET_PUBLIC_KEY}}
+  ENCRYPTION_KEY: ${{secrets.ENCRYPTION_KEY}}
+  GEMINI_API_KEY: ${{secrets.GEMINI_API_KEY}}
+  GEMINI_API_SECRET: ${{secrets.GEMINI_API_KEY}}
+  GEMINI_BROWSER_CLIENT_ID: ${{secrets.GEMINI_BROWSER_CLIENT_ID}}
+  GEMINI_CLIENT_ID: ${{secrets.GEMINI_CLIENT_ID}}
+  GEMINI_CLIENT_SECRET: ${{secrets.GEMINI_CLIENT_SECRET}}
+  GEMINI_SERVER: ${{secrets.GEMINI_SERVER}}
+  GEMINI_TEST_DESTINATION_ID: ${{secrets.GEMINI_TEST_DESTINATION_ID}}
+  GRANT_WALLET_CARD_ID: ${{secrets.GRANT_WALLET_CARD_ID}}
+  GRANT_WALLET_PRIVATE_KEY: ${{secrets.GRANT_WALLET_PRIVATE_KEY}}
+  GRANT_WALLET_PUBLIC_KEY: ${{secrets.GRANT_WALLET_PUBLIC_KEY}}
+  UPHOLD_ACCESS_TOKEN: ${{secrets.UPHOLD_ACCESS_TOKEN}}
+  RATIOS_TOKEN: ${{secrets.RATIOS_TOKEN}}
+  UPHOLD_SETTLEMENT_ADDRESS: ${{secrets.UPHOLD_SETTLEMENT_ADDRESS}}
+  BITFLYER_SOURCE_FROM: tipping
+  BITFLYER_CLIENT_ID: ${{secrets.BITFLYER_CLIENT_ID}}
+  BITFLYER_CLIENT_SECRET: ${{secrets.BITFLYER_CLIENT_SECRET}}
+  BITFLYER_EXTRA_CLIENT_SECRET: ${{secrets.BITFLYER_EXTRA_CLIENT_SECRET}}
+  BITFLYER_SERVER: ${{secrets.BITFLYER_SERVER}}
+  BITFLYER_TOKEN: ${{secrets.BITFLYER_TOKEN}}
+  REDIS_ADDR: redis://grant-redis/
+
+jobs:
+  CI:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        goversion:
+        - 1.19
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Login to Docker Hub
+      uses: docker/login-action@0d4c9c5ea7693da7b068278f7b52bda2a190a446 # v3.2.0
+      with:
+        username: ${{ secrets.DOCKERHUB_USERNAME }}
+        password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+    - name: Set up Go
+      id: setup-go
+      uses: actions/setup-go@v4
+      with:
+        go-version: ${{ matrix.goversion }}
+        cache-dependency-path: "**/go.sum"
+
+    - name: Ensure Module Path
+      run: mkdir -p /opt/go/pkg/mod
+
+    - name: Copy From Module Cache
+      if: steps.setup-go.outputs.cache-hit == 'true'
+      run: |
+        rsync -au "/home/runner/go/pkg/" "/opt/go/pkg"
+
+    - name: Install Docker Compose
+      uses: KengoTODA/actions-setup-docker-compose@92cbaf8ac8c113c35e1cedd1182f217043fbdd00
+      with:
+        version: '1.25.4'
+
+    - run: docker compose pull
+
+    - name: Start Vault
+      run: |
+        docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d vault;
+        sleep 3
+
+    - name: Run Tests
+      run: |
+        export VAULT_TOKEN=$(docker logs grant-vault 2>&1 | grep "Root Token" | tail -1 | cut -d ' ' -f 3 );
+        docker compose -f docker-compose.yml -f docker-compose.dev.yml run --rm -v /opt/go/pkg:/go/pkg dev make
+
+    - name: Ensure Module Directory
+      if: steps.setup-go.outputs.cache-hit != 'true'
+      run: mkdir -p /home/runner/go/pkg
+
+    - name: Copy To Module Cache
+      run: |
+        sudo rsync -au "/opt/go/pkg/" "/home/runner/go/pkg"
+        sudo chown -R runner:runner /home/runner/go/pkg

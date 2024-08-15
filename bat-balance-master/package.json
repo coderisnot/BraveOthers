@@ -1,0 +1,40 @@
+{
+  "name": "bat-balance",
+  "version": "1.1.0",
+  "description": "Find the balance associated with a BAT wallet.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run test-security",
+    "test-security": "nsp check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brave-intl/bat-balance"
+  },
+  "author": "Brave Developers <support@brave.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/brave-intl/bat-balance/issues"
+  },
+  "homepage": "https://github.com/brave-intl/bat-balance",
+  "dependencies": {
+    "@ambassify/backoff-strategies": "1.0.0",
+    "data-expression": "1.0.0",
+    "joi": "^13.1.2",
+    "underscore": "1.8.3"
+  },
+  "engines": {
+    "node": ">=7.10.1",
+    "npm": ">=4.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "npm-check-updates": "^2.12.1",
+    "nsp": "^2.8.0",
+    "standard": "10.0.3"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}

@@ -1,0 +1,1927 @@
+[
+  {
+    "version": "0.27.3",
+    "name": "Brave 0.27.3",
+    "pub_date": "2019-04-11T06:17:55.667Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.27.3\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.27.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.27.2",
+    "name": "Brave 0.27.2",
+    "pub_date": "2019-04-09T21:57:32.761Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.27.2dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.27.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.25.304",
+    "name": "Brave 0.25.304",
+    "pub_date": "2018-12-20T16:17:33.749Z",
+    "notes": "Added information for migrating to the new Brave browser. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.304dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.304/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.25.303",
+    "name": "Brave 0.25.303",
+    "pub_date": "2018-12-17T23:55:03.937Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.303\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.303/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.25.302",
+    "name": "Brave 0.25.302",
+    "pub_date": "2018-12-15T05:48:23.895Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.302\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.302/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.25.2",
+    "name": "Brave 0.25.2",
+    "pub_date": "2018-10-08T16:48:55.801Z",
+    "notes": "Fixed several security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.2dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.25.1",
+    "name": "Brave 0.25.1",
+    "pub_date": "2018-10-05T21:49:06.317Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.1\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.25.0",
+    "name": "Brave 0.25.0",
+    "pub_date": "2018-10-05T06:24:12.057Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.0\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.24.0",
+    "name": "Brave 0.24.0",
+    "pub_date": "2018-09-18T18:27:16.908Z",
+    "notes": "Fixed several about:blank tab issues, swipe navigation on macOS. Updated to Chromium 69.0.3497.100 and Tor 0.3.4 series. More details: https://github.com/brave/browser-laptop/releases/tag/v0.24.0dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.24.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.207",
+    "name": "Brave 0.23.207",
+    "pub_date": "2018-09-18T06:26:34.064Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.207\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.207/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.206",
+    "name": "Brave 0.23.206",
+    "pub_date": "2018-09-14T06:25:12.226Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.206\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.206/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.205",
+    "name": "Brave 0.23.205",
+    "pub_date": "2018-09-12T07:15:36.358Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.205\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.205/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.204",
+    "name": "Brave 0.23.204",
+    "pub_date": "2018-09-11T20:52:09.081Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.204\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.204/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.107",
+    "name": "Brave 0.23.107",
+    "pub_date": "2018-09-10T17:37:57.688Z",
+    "notes": "Upgraded to muon 8.0.10. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.107dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.107/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.106",
+    "name": "Brave 0.23.106",
+    "pub_date": "2018-09-08T07:39:29.554Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.106\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.106/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.105",
+    "name": "Brave 0.23.105",
+    "pub_date": "2018-08-29T16:39:21.989Z",
+    "notes": "Fixed Windows crash and issues with extensions (LastPass, Bitwarden, and DashLane). More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.105dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.105/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.104",
+    "name": "Brave 0.23.104",
+    "pub_date": "2018-08-23T17:52:09.530Z",
+    "notes": "Added support for window.prompt and fixed several security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.104dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.104/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.103",
+    "name": "Brave 0.23.103",
+    "pub_date": "2018-08-21T19:52:09.079Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.103\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.103/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.102",
+    "name": "Brave 0.23.102",
+    "pub_date": "2018-08-19T05:03:05.849Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.102\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.102/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.80",
+    "name": "Brave 0.23.80",
+    "pub_date": "2018-08-14T06:23:10.615Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.80\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.80/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.79",
+    "name": "Brave 0.23.79",
+    "pub_date": "2018-08-09T07:28:08.710Z",
+    "notes": "Fixed crash when discarding tabs. Improved fingerprinting protection. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.79dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.79/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.77",
+    "name": "Brave 0.23.77",
+    "pub_date": "2018-08-03T06:53:56.640Z",
+    "notes": "Fixed several critical security issues and crashes. Updated to Chromium 68.0.3440.84. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.77dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.77/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.74",
+    "name": "Brave 0.23.74",
+    "pub_date": "2018-08-02T19:39:39.179Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.74\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.74/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.73",
+    "name": "Brave 0.23.73",
+    "pub_date": "2018-07-27T17:14:32.619Z",
+    "notes": "Fixed extension popup appearing transparent on first click and several Tor crashes. Updated to Chromium 68.0.3440.75. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.73dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.73/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.72",
+    "name": "Brave 0.23.72",
+    "pub_date": "2018-07-25T17:29:16.753Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.72\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.72/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.39",
+    "name": "Brave 0.23.39",
+    "pub_date": "2018-07-18T16:28:35.839Z",
+    "notes": "Added Tor Private Tab keyboard shortcut and fixed several Tor issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.39dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.39/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.37",
+    "name": "Brave 0.23.37",
+    "pub_date": "2018-07-15T02:57:25.450Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.37\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.37/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.36",
+    "name": "Brave 0.23.36",
+    "pub_date": "2018-07-14T07:32:11.084Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.36\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.36/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.35",
+    "name": "Brave 0.23.35",
+    "pub_date": "2018-07-13T07:59:21.026Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.35\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.35/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.34",
+    "name": "Brave 0.23.34",
+    "pub_date": "2018-07-12T07:24:50.626Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.34\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.34/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.33",
+    "name": "Brave 0.23.33",
+    "pub_date": "2018-07-11T18:48:12.576Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.33\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.33/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.31",
+    "name": "Brave 0.23.31",
+    "pub_date": "2018-07-06T18:32:51.878Z",
+    "notes": "Fixed Twitch streams not playing, added IndexedDB support, updated to Chromium 67.0.3396.103. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.31dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.31/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.19",
+    "name": "Brave 0.23.19",
+    "pub_date": "2018-06-27T08:19:02.071Z",
+    "notes": "Added Tor support for Private Browsing, new toolbar icons and styling refinements, EasyPrivacy tracking list and several ad-block performance improvements. Fixed several copy and paste issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.19dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.19/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.18",
+    "name": "Brave 0.23.18",
+    "pub_date": "2018-06-26T08:55:00.672Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.18\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.18/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.17",
+    "name": "Brave 0.23.17",
+    "pub_date": "2018-06-25T16:59:21.160Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.17\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.17/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.16",
+    "name": "Brave 0.23.16",
+    "pub_date": "2018-06-23T19:40:07.577Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.16\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.16/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.23.15",
+    "name": "Brave 0.23.15",
+    "pub_date": "2018-06-22T22:45:07.732Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.15\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.23.15/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.810",
+    "name": "Brave 0.22.810",
+    "pub_date": "2018-06-12T06:59:36.126Z",
+    "notes": "Fixed CAPTCHA compatibility with Windows scaling (high-res monitors) and several other Brave Payments improvements. Upgraded to Chromium 67.0.3396.71. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.810dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.810/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.808",
+    "name": "Brave 0.22.808",
+    "pub_date": "2018-06-08T08:16:00.375Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.808\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.808/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.807",
+    "name": "Brave 0.22.807",
+    "pub_date": "2018-06-05T18:04:03.540Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.807\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.807/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.727",
+    "name": "Brave 0.22.727",
+    "pub_date": "2018-06-04T05:08:12.674Z",
+    "notes": "Added CAPTCHA verification when accepting grants, added new preferences (Clear Payment Data, Clear Payment History, and Delete Wallet). Optimized contributions by adding support for batch voting and several other Brave Payments improvements. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.727dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.727/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.726",
+    "name": "Brave 0.22.726",
+    "pub_date": "2018-06-01T22:49:01.330Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.726\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.726/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.725",
+    "name": "Brave 0.22.725",
+    "pub_date": "2018-06-01T08:08:22.349Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.725\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.725/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.724",
+    "name": "Brave 0.22.724",
+    "pub_date": "2018-05-31T21:21:00.740Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.724\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.724/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.723",
+    "name": "Brave 0.22.723",
+    "pub_date": "2018-05-30T07:58:01.120Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.723\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.723/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.722",
+    "name": "Brave 0.22.722",
+    "pub_date": "2018-05-29T17:39:02.361Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.722\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.722/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.721",
+    "name": "Brave 0.22.721",
+    "pub_date": "2018-05-24T08:14:57.271Z",
+    "notes": "Fixed tab rendering and unresponsiveness, fixed security indicator when toggling shield on some sites, fixed crash for extension background pages, fixed torrent download when extension disabled. Upgraded to Chromium 66.0.3359.170. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.721dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.721/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.719",
+    "name": "Brave 0.22.719",
+    "pub_date": "2018-05-23T07:11:16.979Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.719\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.719/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.714",
+    "name": "Brave 0.22.714",
+    "pub_date": "2018-05-15T21:26:07.627Z",
+    "notes": "Improved browser performance (especially with a high number of tabs open), several improvements for Brave Payments. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.714dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.714/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.712",
+    "name": "Brave 0.22.712",
+    "pub_date": "2018-05-15T03:45:48.321Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.712\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.712/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.711",
+    "name": "Brave 0.22.711",
+    "pub_date": "2018-05-13T07:52:53.727Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.711\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.711/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.709",
+    "name": "Brave 0.22.709",
+    "pub_date": "2018-05-11T18:50:45.741Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.709\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.709/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.708",
+    "name": "Brave 0.22.708",
+    "pub_date": "2018-05-11T18:11:20.539Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.708\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.708/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.669",
+    "name": "Brave 0.22.669",
+    "pub_date": "2018-04-27T19:52:01.831Z",
+    "notes": "Fixed crash when submitting online forms, several bugs on macOS (updates not always working, trying to use Brave when no windows are open). Several Brave Payment improvements. Upgraded to Chromium 66.0.3359.117. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.669dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.669/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.667",
+    "name": "Brave 0.22.667",
+    "pub_date": "2018-04-24T15:40:27.234Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.667\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.667/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.666",
+    "name": "Brave 0.22.666",
+    "pub_date": "2018-04-23T22:23:58.016Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.666\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.666/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.665",
+    "name": "Brave 0.22.665",
+    "pub_date": "2018-04-19T20:31:37.969Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.665\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.665/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.664",
+    "name": "Brave 0.22.664",
+    "pub_date": "2018-04-18T20:11:31.734Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.664\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.664/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.22",
+    "name": "Brave 0.22.22",
+    "pub_date": "2018-04-18T02:40:52.218Z",
+    "notes": "Fixed missing static variable on macOS for first-run referral program installs. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.22dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.22/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.21",
+    "name": "Brave 0.22.21",
+    "pub_date": "2018-04-14T07:54:23.055Z",
+    "notes": "Improvements to the referral program and reverted quarantine feature for macOS. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.21dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.21/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.20",
+    "name": "Brave 0.22.20",
+    "pub_date": "2018-04-13T21:18:10.361Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.20\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.20/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.19",
+    "name": "Brave 0.22.19",
+    "pub_date": "2018-04-13T05:56:11.421Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.19\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.19/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.18",
+    "name": "Brave 0.22.18",
+    "pub_date": "2018-04-12T06:22:24.641Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.18\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.18/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.17",
+    "name": "Brave 0.22.17",
+    "pub_date": "2018-04-11T23:50:13.029Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.17\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.17/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.16",
+    "name": "Brave 0.22.16",
+    "pub_date": "2018-04-06T17:21:00.458Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.16\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.16/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.15",
+    "name": "Brave 0.22.15",
+    "pub_date": "2018-04-05T23:56:15.783Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.15\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.15/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.13",
+    "name": "Brave 0.22.13",
+    "pub_date": "2018-03-30T18:31:22.656Z",
+    "notes": "Fix printing on Windows, scrolling issues, several Payments issues, tab discarding, dialog fixes, Google cookie mismatch when importing, several tab style issues, and IME fixes for international users. Added EV Certificate status, U2F support for various websites, and a new look for preview tabs. Optimized opening new windows. Upgraded to Chromium 65.0.3325.181. More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.13dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.13/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.12",
+    "name": "Brave 0.22.12",
+    "pub_date": "2018-03-30T07:36:49.767Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.12\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.12/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.11",
+    "name": "Brave 0.22.11",
+    "pub_date": "2018-03-28T23:23:25.563Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.11\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.11/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.10",
+    "name": "Brave 0.22.10",
+    "pub_date": "2018-03-28T22:45:20.684Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.10\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.10/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.22.9",
+    "name": "Brave 0.22.9",
+    "pub_date": "2018-03-28T19:02:39.361Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.9\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.22.9/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.21.24",
+    "name": "Brave 0.21.24",
+    "pub_date": "2018-03-20T08:05:29.258Z",
+    "notes": "Fixed possible error when trying to save password, bugs with ledger session corruption and other bug fixes. Upgraded to Chromium 65.0.3325.162. More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.24dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.21.24/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.21.23",
+    "name": "Brave 0.21.23",
+    "pub_date": "2018-03-19T21:33:51.760Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.23\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.21.23/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.21.21",
+    "name": "Brave 0.21.21",
+    "pub_date": "2018-03-19T18:16:05.958Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.21\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.21.21/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.21.20",
+    "name": "Brave 0.21.20",
+    "pub_date": "2018-03-17T18:57:23.830Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.20\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.21.20/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.21.19",
+    "name": "Brave 0.21.19",
+    "pub_date": "2018-03-16T07:48:19.737Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.19\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.21.19/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.21.18",
+    "name": "Brave 0.21.18",
+    "pub_date": "2018-02-28T19:14:00.678Z",
+    "notes": "Added the ability to pay Twitch publishers with BAT. More details: https://github.com/brave/browser-laptop/releases/tag/v0.21.18dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.21.18/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.46",
+    "name": "Brave 0.20.46",
+    "pub_date": "2018-02-25T06:40:43.723Z",
+    "notes": "Fixed YouTube videos lagging while playing, back and refresh buttons not working after long usage and general performance improvements. More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.46dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.46/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.42",
+    "name": "Brave 0.20.42",
+    "pub_date": "2018-02-14T20:13:27.588Z",
+    "notes": "Fixed websites being unpinned under Brave Payments. Fixed copying and pasting images, and fixed several keyboard shortcut issues. Upgraded to Chromium 64.0.3282.140. More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.42dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.42/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.41",
+    "name": "Brave 0.20.41",
+    "pub_date": "2018-02-14T01:48:28.616Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.41\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.41/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.40",
+    "name": "Brave 0.20.40",
+    "pub_date": "2018-02-13T17:06:09.184Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.40\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.40/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.39",
+    "name": "Brave 0.20.39",
+    "pub_date": "2018-02-13T07:44:41.496Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.39\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.39/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.38",
+    "name": "Brave 0.20.38",
+    "pub_date": "2018-02-12T17:11:02.669Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.38\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.38/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.37",
+    "name": "Brave 0.20.37",
+    "pub_date": "2018-02-12T15:33:12.301Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.37\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.37/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.36",
+    "name": "Brave 0.20.36",
+    "pub_date": "2018-02-10T22:18:51.527Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.36\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.36/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.35",
+    "name": "Brave 0.20.35",
+    "pub_date": "2018-02-09T23:34:15.775Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.35\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.35/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.33",
+    "name": "Brave 0.20.33",
+    "pub_date": "2018-02-07T20:41:59.742Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.33\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.33/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.32",
+    "name": "Brave 0.20.32",
+    "pub_date": "2018-02-06T18:00:18.071Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.32\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.32/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.30",
+    "name": "Brave 0.20.30",
+    "pub_date": "2018-02-01T19:54:01.278Z",
+    "notes": "Fixed restoring tabs at startup causing slow performance. More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.30dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.30/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.29",
+    "name": "Brave 0.20.29",
+    "pub_date": "2018-01-31T02:31:50.077Z",
+    "notes": "Major performance optimizations, third-party fingerprinting protection option added and enabled as default, 2-finger swipe navigation for macOS, encrypted cookies, and hundreds of other fixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.29dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.29/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.27",
+    "name": "Brave 0.20.27",
+    "pub_date": "2018-01-30T05:25:56.361Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.27\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.27/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.25",
+    "name": "Brave 0.20.25",
+    "pub_date": "2018-01-30T01:24:43.896Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.25\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.25/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.24",
+    "name": "Brave 0.20.24",
+    "pub_date": "2018-01-29T22:15:03.208Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.24\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.24/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.20.23",
+    "name": "Brave 0.20.23",
+    "pub_date": "2018-01-29T04:55:08.683Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.20.23\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.20.23/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.147",
+    "name": "Brave 0.19.147",
+    "pub_date": "2018-01-26T05:39:50.624Z",
+    "notes": "Fixed several issues with crash reporting. Upgraded to Chromium 64.0.3282.119. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.147dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.147/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.146",
+    "name": "Brave 0.19.146",
+    "pub_date": "2018-01-25T22:41:48.099Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.146\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.146/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.145",
+    "name": "Brave 0.19.145",
+    "pub_date": "2018-01-25T05:41:33.645Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.145\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.145/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.144",
+    "name": "Brave 0.19.144",
+    "pub_date": "2018-01-24T17:13:00.464Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.144\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.144/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.141",
+    "name": "Brave 0.19.141",
+    "pub_date": "2018-01-23T04:38:21.275Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.141\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.141/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.140",
+    "name": "Brave 0.19.140",
+    "pub_date": "2018-01-22T17:59:53.405Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.140\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.140/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.139",
+    "name": "Brave 0.19.139",
+    "pub_date": "2018-01-19T16:50:45.759Z",
+    "notes": "Fixed wallet recovery keys being corrupted when restarting browser, recovering wallets using cross-OS recovery keys and YouTube publishers appearing as URLs under Payments screen. Upgraded to Chromium 64.0.3282.85. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.139dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.139/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.138",
+    "name": "Brave 0.19.138",
+    "pub_date": "2018-01-18T17:17:24.564Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.138\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.138/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.134",
+    "name": "Brave 0.19.134",
+    "pub_date": "2018-01-12T21:13:13.267Z",
+    "notes": "Fixed backup key corruption when restoring wallets, muted media being autoplayed and several password management improvements. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.134dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.134/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.133",
+    "name": "Brave 0.19.133",
+    "pub_date": "2018-01-12T05:29:45.653Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.133\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.133/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.132",
+    "name": "Brave 0.19.132",
+    "pub_date": "2018-01-11T04:03:18.398Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.132\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.132/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.131",
+    "name": "Brave 0.19.131",
+    "pub_date": "2018-01-08T19:05:11.588Z",
+    "notes": "Added Strict Site Isolation mode, disabled password autofill during page loads, improvements to both Brave Payments and autoplay. Upgraded to Chromium 63.0.3239.132. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.131dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.131/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.130",
+    "name": "Brave 0.19.130",
+    "pub_date": "2018-01-06T08:39:14.254Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.130\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.130/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.129",
+    "name": "Brave 0.19.129",
+    "pub_date": "2018-01-06T02:21:32.306Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.129\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.129/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.128",
+    "name": "Brave 0.19.128",
+    "pub_date": "2018-01-05T23:54:06.998Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.128\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.128/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.127",
+    "name": "Brave 0.19.127",
+    "pub_date": "2018-01-05T19:31:50.439Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.127\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.127/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.126",
+    "name": "Brave 0.19.126",
+    "pub_date": "2018-01-05T05:29:45.959Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.126\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.126/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.125",
+    "name": "Brave 0.19.125",
+    "pub_date": "2018-01-04T19:36:47.983Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.125\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.125/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.124",
+    "name": "Brave 0.19.124",
+    "pub_date": "2018-01-04T16:48:02.352Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.124\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.124/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.123",
+    "name": "Brave 0.19.123",
+    "pub_date": "2017-12-27T18:37:27.080Z",
+    "notes": "Fixed vulnerability in WebTorrent. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.123dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.123/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.122",
+    "name": "Brave 0.19.122",
+    "pub_date": "2017-12-21T00:05:10.905Z",
+    "notes": "Fixed DuckDuckGo referral code for private search. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.122dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.122/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.121",
+    "name": "Brave 0.19.121",
+    "pub_date": "2017-12-19T18:30:46.901Z",
+    "notes": "Upgraded to Chromium 63.0.3239.108. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.121dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.121/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.120",
+    "name": "Brave 0.19.120",
+    "pub_date": "2017-12-19T05:29:03.637Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.120\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.120/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.119",
+    "name": "Brave 0.19.119",
+    "pub_date": "2017-12-18T19:23:06.048Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.119\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.119/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.118",
+    "name": "Brave 0.19.118",
+    "pub_date": "2017-12-15T23:53:44.031Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.118\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.118/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.117",
+    "name": "Brave 0.19.117",
+    "pub_date": "2017-12-14T20:11:46.829Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.117\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.117/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.116",
+    "name": "Brave 0.19.116",
+    "pub_date": "2017-12-14T14:58:00.554Z",
+    "notes": "Added the ability to use DuckDuckGo as a separate default search engine for private tabs. Fixed several Payments issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.116dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.116/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.115",
+    "name": "Brave 0.19.115",
+    "pub_date": "2017-12-12T05:10:51.079Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.115\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.115/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.114",
+    "name": "Brave 0.19.114",
+    "pub_date": "2017-12-11T21:08:28.839Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.114\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.114/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.113",
+    "name": "Brave 0.19.113",
+    "pub_date": "2017-12-11T00:20:28.489Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.113\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.113/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.112",
+    "name": "Brave 0.19.112",
+    "pub_date": "2017-12-09T05:39:27.701Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.112\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.112/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.110",
+    "name": "Brave 0.19.110",
+    "pub_date": "2017-12-08T20:49:15.689Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.110\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.110/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.105",
+    "name": "Brave 0.19.105",
+    "pub_date": "2017-12-01T01:47:17.876Z",
+    "notes": "Fixed several issues when opening and closing tabs, payment improvements. Optimized fingerprint tracking. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.105dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.105/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.104",
+    "name": "Brave 0.19.104",
+    "pub_date": "2017-11-30T17:15:25.507Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.104\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.104/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.100",
+    "name": "Brave 0.19.100",
+    "pub_date": "2017-11-29T23:00:00.919Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.100\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.100/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.99",
+    "name": "Brave 0.19.99",
+    "pub_date": "2017-11-29T00:16:35.179Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.99\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.99/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.95",
+    "name": "Brave 0.19.95",
+    "pub_date": "2017-11-16T02:49:21.088Z",
+    "notes": "Added the ability to pay YouTube publishers with BAT, fixed several issues, and upgraded to Chromium 62.0.3202.94. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.95dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.95/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.94",
+    "name": "Brave 0.19.94",
+    "pub_date": "2017-11-15T22:10:24.740Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.94\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.94/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.93",
+    "name": "Brave 0.19.93",
+    "pub_date": "2017-11-15T17:07:08.221Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.93\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.93/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.92",
+    "name": "Brave 0.19.92",
+    "pub_date": "2017-11-15T05:32:20.315Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.92\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.92/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.91",
+    "name": "Brave 0.19.91",
+    "pub_date": "2017-11-13T20:01:41.801Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.91\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.91/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.90",
+    "name": "Brave 0.19.90",
+    "pub_date": "2017-11-13T19:21:51.558Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.90\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.90/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.89",
+    "name": "Brave 0.19.89",
+    "pub_date": "2017-11-12T17:12:05.164Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.89\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.89/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.88",
+    "name": "Brave 0.19.88",
+    "pub_date": "2017-11-09T19:51:42.532Z",
+    "notes": "Fixed ctrl-shift-tab keyboard navigation and several Brave Payments issues. Upgraded to Chromium 62.0.3202.89. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.88dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.88/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.87",
+    "name": "Brave 0.19.87",
+    "pub_date": "2017-11-09T15:12:51.000Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.87\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.87/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.86",
+    "name": "Brave 0.19.86",
+    "pub_date": "2017-11-09T06:09:13.784Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.86\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.86/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.82",
+    "name": "Brave 0.19.82",
+    "pub_date": "2017-11-08T18:14:23.936Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.82\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.82/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.81",
+    "name": "Brave 0.19.81",
+    "pub_date": "2017-11-08T15:46:23.747Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.81\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.81/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.80",
+    "name": "Brave 0.19.80",
+    "pub_date": "2017-11-02T04:44:58.890Z",
+    "notes": "Added multi language spell check. Fixed several BAT Payments issues. Upgraded to Chromium 62.0.3202.75. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.80dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.80/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.75",
+    "name": "Brave 0.19.75",
+    "pub_date": "2017-11-01T19:24:11.472Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.75\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.75/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.74",
+    "name": "Brave 0.19.74",
+    "pub_date": "2017-11-01T18:08:06.427Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.74\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.74/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.72",
+    "name": "Brave 0.19.72",
+    "pub_date": "2017-11-01T13:39:40.006Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.72\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.72/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.71",
+    "name": "Brave 0.19.71",
+    "pub_date": "2017-11-01T03:22:47.595Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.71\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.71/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.70",
+    "name": "Brave 0.19.70",
+    "pub_date": "2017-10-27T18:22:27.276Z",
+    "notes": "Fixed several issues with BAT payments and upgraded to Chromium 62. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.70dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.70/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.69",
+    "name": "Brave 0.19.69",
+    "pub_date": "2017-10-27T17:36:32.294Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.69\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.69/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.67",
+    "name": "Brave 0.19.67",
+    "pub_date": "2017-10-26T16:48:00.796Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.67\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.67/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.66",
+    "name": "Brave 0.19.66",
+    "pub_date": "2017-10-25T03:47:26.253Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.66\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.66/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.65",
+    "name": "Brave 0.19.65",
+    "pub_date": "2017-10-24T20:41:20.067Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.65\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.65/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.62",
+    "name": "Brave 0.19.62",
+    "pub_date": "2017-10-22T16:03:42.606Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.62\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.62/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.61",
+    "name": "Brave 0.19.61",
+    "pub_date": "2017-10-20T21:39:21.439Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.61\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.61/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.60",
+    "name": "Brave 0.19.60",
+    "pub_date": "2017-10-20T16:59:55.566Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.60\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.60/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.53",
+    "name": "Brave 0.19.53",
+    "pub_date": "2017-10-16T21:27:57.749Z",
+    "notes": "Added support for MetaMask, notification when detecting a Dapp, several BAT (Mercury) fixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.53dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.53/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.52",
+    "name": "Brave 0.19.52",
+    "pub_date": "2017-10-16T17:03:49.023Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.52\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.52/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.49",
+    "name": "Brave 0.19.49",
+    "pub_date": "2017-10-13T06:50:28.314Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.49\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.49/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.48",
+    "name": "Brave 0.19.48",
+    "pub_date": "2017-10-12T16:05:13.719Z",
+    "notes": "Launched Brave Payments with BAT (Mercury), import passwords, several optimization improvements, and Bitwarden password manager. More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.48dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.48/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.19.46",
+    "name": "Brave 0.19.46",
+    "pub_date": "2017-10-12T01:48:05.265Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.19.46\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.19.46/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.36",
+    "name": "Brave 0.18.36",
+    "pub_date": "2017-09-14T22:13:07.021Z",
+    "notes": "Added MacBook trackpad pinch to zoom gesture support. Upgraded to Chromium 61. More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.36dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.36/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.32",
+    "name": "Brave 0.18.32",
+    "pub_date": "2017-09-11T02:06:42.642Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.32\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.32/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.31",
+    "name": "Brave 0.18.31",
+    "pub_date": "2017-09-07T18:19:38.849Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.31\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.31/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.30",
+    "name": "Brave 0.18.30",
+    "pub_date": "2017-09-07T05:41:36.888Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.30\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.30/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.29",
+    "name": "Brave 0.18.29",
+    "pub_date": "2017-09-06T16:41:44.507Z",
+    "notes": "Fixed Netflix by adding VMP support, optimized page loads and fixed tab behaviour (detaching, moving and dead tabs). More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.29dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.29/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.28",
+    "name": "Brave 0.18.28",
+    "pub_date": "2017-09-06T07:48:12.926Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.28\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.28/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.27",
+    "name": "Brave 0.18.27",
+    "pub_date": "2017-09-06T04:01:22.432Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.27\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.27/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.26",
+    "name": "Brave 0.18.26",
+    "pub_date": "2017-09-03T08:03:26.167Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.26\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.26/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.25",
+    "name": "Brave 0.18.25",
+    "pub_date": "2017-09-01T21:27:35.217Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.25\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.25/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.24",
+    "name": "Brave 0.18.24",
+    "pub_date": "2017-08-31T08:12:48.777Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.24\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.24/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.23",
+    "name": "Brave 0.18.23",
+    "pub_date": "2017-08-16T04:07:21.835Z",
+    "notes": "Fixed many issues with performance (browser and video freezing, lag on find bar), Fixed tab loss on crash, fixed spell check on Disqus comment boxes, and upgraded Chromium. More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.23dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.23/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.22",
+    "name": "Brave 0.18.22",
+    "pub_date": "2017-08-11T05:55:11.986Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.22\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.22/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.21",
+    "name": "Brave 0.18.21",
+    "pub_date": "2017-08-10T07:06:02.845Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.21\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.21/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.20",
+    "name": "Brave 0.18.20",
+    "pub_date": "2017-08-09T08:00:59.157Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.20\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.20/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.19",
+    "name": "Brave 0.18.19",
+    "pub_date": "2017-08-08T22:10:52.394Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.19\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.19/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.17",
+    "name": "Brave 0.18.17",
+    "pub_date": "2017-08-06T19:50:42.067Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.17\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.17/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.16",
+    "name": "Brave 0.18.16",
+    "pub_date": "2017-08-03T21:40:32.509Z",
+    "notes": "Fixed desktop file for Linux, and a handful of Linux hotfixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.16dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.16/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.15",
+    "name": "Brave 0.18.15",
+    "pub_date": "2017-07-31T21:40:32.509Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.15\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.15/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.18.14",
+    "name": "Brave 0.18.14",
+    "pub_date": "2017-07-27T19:58:16.744Z",
+    "notes": "Added a welcome screen for first time users, added an option to disable 'Top Sites' in autocomplete, fixed URL display on error pages, and numerous fixes for Sync, extensions, and performance. More details: https://github.com/brave/browser-laptop/releases/tag/v0.18.14dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.18.14/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.19",
+    "name": "Brave 0.17.19",
+    "pub_date": "2017-07-19T18:04:38.555Z",
+    "notes": "Numerous performance improvements, fixed tab display when closing tabs, fixed history listings and fixed a security issue for WebTorrent. More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.19dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.19/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.18",
+    "name": "Brave 0.17.18",
+    "pub_date": "2017-07-19T04:11:34.293Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.18\ndev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.18/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.17",
+    "name": "Brave 0.17.17",
+    "pub_date": "2017-07-17T21:31:17.961Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.17dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.17/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.16",
+    "name": "Brave 0.17.16",
+    "pub_date": "2017-07-12T07:13:05.994Z",
+    "notes": "Fixed sync issues, fixed a URL bar issue, and upgraded Chromium to 59.0.3071.115. More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.16dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.16/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.15",
+    "name": "Brave 0.17.15",
+    "pub_date": "2017-07-11T01:13:46.729Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.15dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.15/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.14",
+    "name": "Brave 0.17.14",
+    "pub_date": "2017-07-08T05:26:16.345Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.14dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.14/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.13",
+    "name": "Brave 0.17.13",
+    "pub_date": "2017-06-30T01:56:23.162Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.13dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.13/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.12",
+    "name": "Brave 0.17.12",
+    "pub_date": "2017-06-28T17:45:40.170Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.12dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.12/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.11",
+    "name": "Brave 0.17.11",
+    "pub_date": "2017-06-27T07:44:11.422Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.11dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.11/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.10",
+    "name": "Brave 0.17.10",
+    "pub_date": "2017-06-26T22:53:23.647Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.10dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.10/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.9",
+    "name": "Brave 0.17.9",
+    "pub_date": "2017-06-24T21:26:36.275Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.9dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.9/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.3",
+    "name": "Brave 0.17.3",
+    "pub_date": "2017-06-15T14:13:16.427Z",
+    "notes": "Improvements to sync, various fixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.3dev",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.17.1",
+    "name": "Brave 0.17.1",
+    "pub_date": "2017-06-13T20:52:30.437Z",
+    "notes": "NOTE: This is a preview build. Added Honey extension, compact bravery panel, bitward password manager, and new welcome screen. Many perf, style, and build fixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.17.1dev.",
+    "preview": true,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.17.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.16.9",
+    "name": "Brave 0.16.9",
+    "pub_date": "2017-06-10T07:19:40.738Z",
+    "notes": "Hotfix for crash on login or other input. Fixed ability to scroll to latest bookmark as well. More details: https://github.com/brave/browser-laptop/releases/tag/v0.16.9dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.16.9/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.16.6",
+    "name": "Brave 0.16.6",
+    "pub_date": "2017-06-09T01:48:20.227Z",
+    "notes": "Added various performance improvements, fixed bookmark manager drag & drop for folders and bookmarks, and upgraded to Chromium 59.0.3071.86. More details: https://github.com/brave/browser-laptop/releases/tag/v0.16.6dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.16.6/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.15.314",
+    "name": "Brave 0.15.314",
+    "pub_date": "2017-06-01T20:18:26.088Z",
+    "notes": "Hotfix for latest release which fixes password updates, popups for logins, and autocomplete search terms. More details: https://github.com/brave/browser-laptop/releases/tag/v0.15.314dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.15.314/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.15.310",
+    "name": "Brave 0.15.310",
+    "pub_date": "2017-05-26T21:24:34.352Z",
+    "notes": "We've made incredible performance improvements, added sharing to social media sites & email, added option to enable/disable HTML5 autoplay, added ability to zoom for UI elements, and fixed various UI issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.15.310dev",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.15.310/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.15.2",
+    "name": "Brave 0.15.2",
+    "pub_date": "2017-05-04T19:18:05.055Z",
+    "notes": "Update to Chromium 58.0.3029.96. More details: https://github.com/brave/browser-laptop/releases/tag/v0.15.2dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.15.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.15.1",
+    "name": "Brave 0.15.1",
+    "pub_date": "2017-04-30T03:43:32.490Z",
+    "notes": "Hotfix to alleviate crashes due to PDF loading or visiting particular sites. More details: https://github.com/brave/browser-laptop/releases/tag/v0.15.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.15.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.15.0",
+    "name": "Brave 0.15.0",
+    "pub_date": "2017-04-27T05:28:58.067Z",
+    "notes": "Added tear-off tabs, Widevine for Amazon, an easy to use extensions preference pane, and a lot of fixes. Upgraded to Chromium 58.0.3029.81. More details: https://github.com/brave/browser-laptop/releases/tag/v0.15.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.15.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.14.1",
+    "name": "Brave 0.14.1",
+    "pub_date": "2017-04-01T06:00:15.036Z",
+    "notes": "Fixed a copy and paste issue, fixed the lion badge position, and improved security. More details: https://github.com/brave/browser-laptop/releases/tag/v0.14.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.14.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.14.0",
+    "name": "Brave 0.14.0",
+    "pub_date": "2017-03-30T21:14:32.496Z",
+    "notes": "Added ability to see SSL certificates, added 100 tabs per tab set, added lion icon badge, fixed keyboard shortcuts, fixed YouTube ad blocking, and fixed many other issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.14.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.14.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.13.5",
+    "name": "Brave 0.13.5",
+    "pub_date": "2017-03-03T21:39:47.551Z",
+    "notes": "Added sync between computers, suppressible per-tab alert and confirm message dialogs, preference page for plugins, fixed wallet recovery, and fixed various UI issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.13.5dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.13.5/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.13.4",
+    "name": "Brave 0.13.4",
+    "pub_date": "2017-02-15T14:22:58.774Z",
+    "notes": "Hotfix for a crash which could happen when loading an invalid URL. More details: https://github.com/brave/browser-laptop/releases/tag/v0.13.4dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.13.4/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.13.3",
+    "name": "Brave 0.13.3",
+    "pub_date": "2017-02-15T05:56:18.151Z",
+    "notes": "Added export for bookmarks, added new background images, fixed rapid tab switching, and many under-the-hood enhancements including Chromium 56.0.2924.87. More details: https://github.com/brave/browser-laptop/releases/tag/v0.13.3dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.13.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.13.2",
+    "name": "Brave 0.13.2",
+    "pub_date": "2017-02-06T19:45:59.139Z",
+    "notes": "Added import recovery keys for Brave Wallet, fixed spellcheck on Linux, and fixed numerous UI and Wallet issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.13.2dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.13.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.13.1",
+    "name": "Brave 0.13.1",
+    "pub_date": "2017-02-01T05:25:13.162Z",
+    "notes": "Hotfix for Widevine on Windows and memory related crash. More details: https://github.com/brave/browser-laptop/releases/tag/v0.13.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.13.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.13.0",
+    "name": "Brave 0.13.0",
+    "pub_date": "2017-01-27T17:15:10.532Z",
+    "notes": "Added WebTorrent support. Added nicer payment history statements. Fixed blocking of YouTube ads. Fixed performance on tab switching. Fixed various UI issues.  More details: https://github.com/brave/browser-laptop/releases/tag/v0.13.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.13.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.15",
+    "name": "Brave 0.12.15",
+    "pub_date": "2016-12-14T19:34:17.844Z",
+    "notes": "Join community.brave.com for help and feature requests. Added Yandex, Qwant, and Semantic Scholar search engines. Various fixes and updates. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.15dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.15/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.14",
+    "name": "Brave 0.12.14",
+    "pub_date": "2016-12-10T05:05:33.103Z",
+    "notes": "Hotfix to address a certificate expiration issue. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.14dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.14/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.13",
+    "name": "Brave 0.12.13",
+    "pub_date": "2016-12-07T17:55:25.004Z",
+    "notes": "Hotfix to address URL bar usability issues and security update. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.13dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.13/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.12",
+    "name": "Brave 0.12.12",
+    "pub_date": "2016-12-05T17:18:29.041Z",
+    "notes": "Hotfix to address a security issue. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.12dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.12/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.11",
+    "name": "Brave 0.12.11",
+    "pub_date": "2016-12-02T21:13:23.399Z",
+    "notes": "Hotfix to address a security issue. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.11dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.11/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.10",
+    "name": "Brave 0.12.10",
+    "pub_date": "2016-11-21T20:22:18.040Z",
+    "notes": "Added dropdown menu with options for new tab. Fixed various issues for the new tab page, Brave Payments, and UI fixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.10dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.10/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.9",
+    "name": "Brave 0.12.9",
+    "pub_date": "2016-11-15T19:48:04.713Z",
+    "notes": "Added a new tab page, added Wolfram Alpha and Infogalactic search engines. Fixed various UI, bookmark, and address bar issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.9dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.9/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.8",
+    "name": "Brave 0.12.8",
+    "pub_date": "2016-11-07T18:04:45.191Z",
+    "notes": "Added Pocket extension, fixed numerous issues for bookmarks manager and findbar, and fixed crashes for a few sites. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.8dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.8/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.7",
+    "name": "Brave 0.12.7",
+    "pub_date": "2016-10-28T18:54:56.474Z",
+    "notes": "Added Google Widevine for Netflix support. Added Startpage search engine. Fixed autocomplete, bookmark management, and a couple security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.7dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.7/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.6",
+    "name": "Brave 0.12.6",
+    "pub_date": "2016-10-24T16:08:37.145Z",
+    "notes": "Ability to set default browser on startup and in preferences, URL bar fixes, error page reloading fixes, and much more: https://github.com/brave/browser-laptop/releases/tag/v0.12.6dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.6/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.5",
+    "name": "Brave 0.12.5",
+    "pub_date": "2016-10-18T15:50:58.651Z",
+    "notes": "Added Brave Wallet backup and recovery, fixed numerous issues for bookmarks manager, and much more. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.5dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.5/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.4",
+    "name": "Brave 0.12.4",
+    "pub_date": "2016-10-08T00:37:58.558Z",
+    "notes": "Added support for regional adblocking in about:adblock, Bravery panel for private tabs, Windows scrolling fixes and much more: https://github.com/brave/browser-laptop/releases/tag/v0.12.4dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.4/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.3",
+    "name": "Brave 0.12.3",
+    "pub_date": "2016-09-29T21:44:59.076Z",
+    "notes": "Added importing from other browsers. Added extension enhancements including auto-update, post-install downloads. Various fixes for Brave Payments, geolocation, toolbar, autofill, history, address bar, and per-site settings. More details: https://github.com/brave/browser-laptop/releases/tag/v0.12.3dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.1",
+    "name": "Brave 0.12.1",
+    "pub_date": "2016-09-15T19:59:10.303Z",
+    "notes": "Added many languages. Added extension UI. Various fixes for Brave Payments, history, and password manager extensions. More details: https://github.com/brave/browser-laptop/releases/tag/0.12.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.12.0",
+    "name": "Brave 0.12.0",
+    "pub_date": "2016-09-06T18:01:34.612Z",
+    "notes": "Added option to allow for mixed-content. Added shortcut to view source. Various fixes for autofill, bookmarks, and history. More details: https://github.com/brave/browser-laptop/releases/tag/0.12.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.12.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.6",
+    "name": "Brave 0.11.6",
+    "pub_date": "2016-09-01T14:23:27.525Z",
+    "notes": "Added the ability to pay publishers with the Brave Ledger. Added autofill, bookmarks enhancements, find bar design update, and history. More details: https://github.com/brave/browser-laptop/releases/tag/0.11.6dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.6/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.5",
+    "name": "Brave 0.11.5",
+    "pub_date": "2016-08-15T18:31:32.610Z",
+    "notes": "Stability and minor bug fixes. More details: https://github.com/brave/browser-laptop/releases/tag/v0.11.5dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.5/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.4",
+    "name": "Brave 0.11.4",
+    "pub_date": "2016-08-10T15:34:47.985Z",
+    "notes": "More data clearing options, tab page previews, printing fix on Windows, memory leak fixes, crash fixes and more: https://github.com/brave/browser-laptop/releases/tag/v0.11.4dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.4/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.3",
+    "name": "Brave 0.11.3",
+    "pub_date": "2016-08-06T05:06:58.325Z",
+    "notes": "PDF, zoom, URL bar fixes, and libchromiumcontent 52.0.2743.116. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.11.3dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.2",
+    "name": "Brave 0.11.2",
+    "pub_date": "2016-08-04T15:56:48.795Z",
+    "notes": "Long tap history on back button, search shortcuts like 'yt cat videos', tab and nav cloning,  and much more: https://github.com/brave/browser-laptop/releases/tag/v0.11.2dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.1",
+    "name": "Brave 0.11.1",
+    "pub_date": "2016-07-20T17:55:49.152Z",
+    "notes": "PDF viewing, more data clearing options, navigator.registerProtocolHandler support, copy image option and more: https://github.com/brave/browser-laptop/releases/tag/v0.11.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.11.0",
+    "name": "Brave 0.11.0",
+    "pub_date": "2016-07-05T13:58:12.284Z",
+    "notes": "LastPass support, WebRTC fingerprinting protection, Flash click to play if Flash is enabled, and more: https://github.com/brave/browser-laptop/releases/tag/v0.11.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.11.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.10.4",
+    "name": "Brave 0.10.4",
+    "pub_date": "2016-06-24T20:24:27.615Z",
+    "notes": "Autocomplete, new suggestions UX, experimental Flash support and more: https://github.com/brave/browser-laptop/releases/v0.10.4dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.10.4/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.10.3",
+    "name": "Brave 0.10.3",
+    "pub_date": "2016-06-08T16:23:55.491Z",
+    "notes": "Update to libchromiumcontent 51.0.2704.84",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.10.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.10.2",
+    "name": "Brave 0.10.2",
+    "pub_date": "2016-06-03T23:17:10.325Z",
+    "notes": "Crash fix for Windows with some link types.",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.10.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.10.1",
+    "name": "Brave 0.10.1",
+    "pub_date": "2016-06-03T16:42:10.424Z",
+    "notes": "Fingerprint protection in the Bravery panel and various fixes. Full notes: https://github.com/brave/browser-laptop/releases/v0.10.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.10.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.10.0",
+    "name": "Brave 0.10.0",
+    "pub_date": "2016-05-21T05:13:15.791Z",
+    "notes": "Per site Bravery panel, error pages, and much more. Full detail: https://github.com/brave/browser-laptop/releases/tag/v0.10.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.10.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.6",
+    "name": "Brave 0.9.6",
+    "pub_date": "2016-05-14T02:01:33.703Z",
+    "notes": "Chromium 50.0.2661.102 and various bug fixes. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.9.6dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.6/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.5",
+    "name": "Brave 0.9.5",
+    "pub_date": "2016-05-12T13:08:30.197Z",
+    "notes": "Spell check, script blocking similar to NoScript, and much more. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.9.5dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.5/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.4",
+    "name": "Brave 0.9.4",
+    "pub_date": "2016-05-05T22:07:47.490Z",
+    "notes": "Startup fix if profile dir does not exist",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.4/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.3",
+    "name": "Brave 0.9.3",
+    "pub_date": "2016-05-04T13:13:01.219Z",
+    "notes": "Dashlane support, external protocol handling, permission prompts, Chromium 50.0.2661.86, and more",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.2",
+    "name": "Brave 0.9.2",
+    "pub_date": "2016-04-22T13:35:44.756Z",
+    "notes": "Windows 32-bit support, Windows default browser handling, fingerprinting protection, zoom fixes, multi language support, printing fix, and more. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.9.2dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.1",
+    "name": "Brave 0.9.1",
+    "pub_date": "2016-04-11T03:13:27.256Z",
+    "notes": "Various fixes. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.9.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.9.0",
+    "name": "Brave 0.9.0",
+    "pub_date": "2016-04-09T03:29:44.561Z",
+    "notes": "1Password support, malware protection, phishing protection and more.  Details: https://github.com/brave/browser-laptop/releases/tag/v0.9.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.9.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.8.3",
+    "name": "Brave 0.8.3",
+    "pub_date": "2016-03-31T20:52:06.553Z",
+    "notes": "Downloads manager, downloads toolbar, passwords manager, and more. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.8.3dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.8.3/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.8.2",
+    "name": "Brave 0.8.2",
+    "pub_date": "2016-03-23T18:42:19.315Z",
+    "notes": "Password saving, single instance app, more HTTPS Everywhere info, full screen mode fixes, and more.  More details here: https://github.com/brave/browser-laptop/releases/tag/v0.8.2dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.8.2/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.8.1",
+    "name": "Brave 0.8.1",
+    "pub_date": "2016-03-17T13:59:59.231Z",
+    "notes": "Security updates, basic HTTP auth support, and more. Full details: https://github.com/brave/browser-laptop/releases/tag/v0.8.1dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.8.1/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.8.0",
+    "name": "Brave 0.8.0",
+    "pub_date": "2016-03-04T18:50:21.056Z",
+    "notes": "Bookmark management, bookmark importing, history for url bar, permissions dialogs and lots more.  Full details https://github.com/brave/browser-laptop/releases/tag/v0.8.0dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.8.0/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.7.16",
+    "name": "Brave 0.7.16",
+    "pub_date": "2016-02-24T21:25:38.659Z",
+    "notes": "Various fixes and optimizations, full notes here: https://github.com/brave/browser-laptop/releases/tag/v0.7.16dev",
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.7.16/linux64/Brave.tar.bz2"
+  },
+  {
+    "version": "0.7.15",
+    "name": "Brave 0.7.15",
+    "pub_date": "2016-02-19T21:18:55.110Z",
+    "notes": "Bookmarks toolbar, bookmarks manager, optimizations, bug fixes, and crash fixes. Full release notes at: https://github.com/brave/browser-laptop/releases/tag/v0.7.15dev",
+    "url": "https://brave-download.global.ssl.fastly.net/releases/0.7.15/linux64/Brave.tar.bz2"
+  }
+]

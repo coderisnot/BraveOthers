@@ -1,0 +1,138 @@
+[
+  {
+    "version": "0.25.216",
+    "name": "Brave 0.25.216",
+    "pub_date": "2018-12-07T08:48:52.395Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.216\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.216/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.215",
+    "name": "Brave 0.25.215",
+    "pub_date": "2018-12-06T05:47:25.862Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.215\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.215/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.213",
+    "name": "Brave 0.25.213",
+    "pub_date": "2018-12-04T07:14:28.247Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.213\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.213/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.212",
+    "name": "Brave 0.25.212",
+    "pub_date": "2018-12-03T06:41:12.811Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.212\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.212/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.211",
+    "name": "Brave 0.25.211",
+    "pub_date": "2018-11-19T19:04:45.222Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.211\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.211/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.210",
+    "name": "Brave 0.25.210",
+    "pub_date": "2018-11-07T02:02:20.549Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.210nightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.210/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.209",
+    "name": "Brave 0.25.209",
+    "pub_date": "2018-11-03T08:37:55.230Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.209\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.209/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.208",
+    "name": "Brave 0.25.208",
+    "pub_date": "2018-11-02T07:49:12.772Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.208nightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.208/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.207",
+    "name": "Brave 0.25.207",
+    "pub_date": "2018-11-02T06:34:30.783Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.207nightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.207/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.206",
+    "name": "Brave 0.25.206",
+    "pub_date": "2018-11-02T05:45:39.288Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.206\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.206/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.205",
+    "name": "Brave 0.25.205",
+    "pub_date": "2018-11-02T00:50:58.062Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.205\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.205/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.204",
+    "name": "Brave 0.25.204",
+    "pub_date": "2018-11-01T20:49:42.371Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.204\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.204/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.203",
+    "name": "Brave 0.25.203",
+    "pub_date": "2018-10-28T18:23:44.445Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.203\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.203/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.202",
+    "name": "Brave 0.25.202",
+    "pub_date": "2018-10-25T07:08:06.058Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.202nightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.202/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.25.201",
+    "name": "Brave 0.25.201",
+    "pub_date": "2018-10-15T06:50:32.469Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.201\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.25.201/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.24.1",
+    "name": "Brave 0.24.1",
+    "pub_date": "2018-06-05T07:21:32.127Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.24.1\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.24.1/linux64/Brave-nightly.tar.bz2"
+  },
+  {
+    "version": "0.22.2",
+    "name": "Brave 0.22.2",
+    "pub_date": "2018-02-08T05:37:37.636Z",
+    "notes": "More details: https://github.com/brave/browser-laptop/releases/tag/v0.22.2\nnightly",
+    "preview": false,
+    "url": "https://brave-download.global.ssl.fastly.net/multi-channel/releases/nightly/0.22.2/linux64/Brave-nightly.tar.bz2"
+  }
+]

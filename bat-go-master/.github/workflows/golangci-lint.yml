@@ -1,0 +1,88 @@
+name: golangci-lint
+on:
+  push:
+    tags:
+      - v*
+    branches:
+      - master
+      - prod
+      - dev
+  pull_request:
+    branches:
+      - master
+      - prod
+jobs:
+  golangci-libs:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19'
+      - name: golangci-lint-libs
+        uses: golangci/golangci-lint-action@v3
+        with:
+          working-directory: libs
+          version: v1.50.1
+          args: --timeout 3m
+
+  golangci-services:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19'
+      - name: golangci-lint-services
+        uses: golangci/golangci-lint-action@v3
+        with:
+          working-directory: services
+          version: v1.50.1
+          args: --timeout 3m
+
+  golangci-tools:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19'
+      - name: golangci-lint-tools
+        uses: golangci/golangci-lint-action@v3
+        with:
+          working-directory: tools
+          version: v1.50.1
+          args: --timeout 3m
+
+  golangci-cmd:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19'
+      - name: golangci-lint-cmd
+        uses: golangci/golangci-lint-action@v3
+        with:
+          working-directory: cmd
+          version: v1.50.1
+          args: --timeout 3m
+
+  golangci-main:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19'
+      - name: golangci-lint-main
+        uses: golangci/golangci-lint-action@v3
+        with:
+          working-directory: main
+          version: v1.50.1
+          args: --timeout 3m
