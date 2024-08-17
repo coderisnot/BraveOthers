@@ -85,7 +85,7 @@
     "netmask": "^2.0.2",
     "newrelic": "^11.13.0",
     "nyc": "^15.1.0",
-    "pg": "^8.11.3",
+    "pg": "^8.12.0",
     "pg-format": "^1.0.4",
     "prom-client": "11.5.3",
     "queue-microtask": "github:brave-intl/queue-microtask#master",
