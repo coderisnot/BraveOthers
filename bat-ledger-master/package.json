@@ -60,7 +60,7 @@
     "@hapi/hapi": "^21.3.6",
     "@hapi/inert": "^7.1.0",
     "@hapi/wreck": "^18.0.1",
-    "@sentry/node": "^7.107.0",
+    "@sentry/node": "^7.118.0",
     "avro-js": "1.11.3",
     "bat-utils": "file:./bat-utils",
     "bignumber.js": "^9.1.2",
