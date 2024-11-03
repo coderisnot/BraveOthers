@@ -34,7 +34,7 @@
     "logfmt": "^1.2.0",
     "moment": "^2.11.1",
     "mongodb": "^3.5.2",
-    "newrelic": "^6.7.1",
+    "newrelic": "^12.6.0",
     "proxy-agent": "^2.2.0",
     "randomstring": "^1.1.5",
     "request": "^2.83.0",
