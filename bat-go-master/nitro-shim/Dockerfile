@@ -7,7 +7,7 @@ RUN make -C ./viproxy/ viproxy
 RUN make -C ./gvproxy/ gvproxy
 RUN make -C ./eifbuild/ eifbuild
 
-FROM amazonlinux:2.0.20230207.0
+FROM amazonlinux:2.0.20241031.0
 
 RUN echo "timeout=60.0" >> /etc/yum.conf
 
