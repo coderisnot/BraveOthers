@@ -21,7 +21,7 @@ RUN cd main && go mod download && CGO_ENABLED=0 GOOS=linux go build \
     -o bat-go main.go
 
 # golang:1.19-alpine is based on alpine:3.18.
-FROM alpine:3.18 as base
+FROM alpine:3.21.0 as base
 
 # Put certs in artifact from builder.
 COPY --from=builder /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
